@@ -1,0 +1,78 @@
++------------------------------------------------------------+
+|                  FULL STACK DEVELOPMENT                    |
+|                    (Frontend, Backend, DevOps)             |
++------------------------------------------------------------+
+|
+| +---------------------------+       +---------------------------+
+| |   FRONTEND DEVELOPMENT    |       |   BACKEND DEVELOPMENT     |
+| +---------------------------+       +---------------------------+
+|  +-----------------------+  |       |   +-----------------------+  |
+|  | HTML / CSS / JavaScript|  |       |   |  Server-Side Languages|  |
+|  +-----------------------+  |       |   +-----------------------+  |
+|    |  - Semantics          |  |       |    | - JavaScript (Node.js)  |  |
+|    |  - Accessibility     |  |       |    | - Python (Django, Flask) |  |
+|    |  - Responsive Design |  |       |    | - Ruby (Rails)          |  |
+|    |  - CSS (Flexbox, Grid)|  |       |    | - Java (Spring)         |  |
+|  +-----------------------+  |       |    | - PHP (Laravel)         |  |
+|    |                       |  |       |    | - Go (Gin)              |  |
+|    | Frontend Frameworks   |  |       |    | - Rust (Actix)          |  |
+|    |                       |  |       |    | - Kotlin (Ktor)         |  |
+|  +-----------------------+  |       |   +-----------------------+  |
+|    | React.js (Most Popular)|  |       |   +-----------------------+  |
+|    | Angular.js            |  |       |   |  Databases (Relational & NoSQL)| |
+|    | Vue.js                |  |       |   |                       |  |
+|    | Svelte                |  |       |   |  - PostgreSQL          |  |
+|    | (State Management)    |  |       |   |  - MySQL               |  |
+|  +-----------------------+  |       |   |  - MongoDB (NoSQL)     |  |
+|    | TypeScript            |  |       |   |  - Redis (In-memory DB)|  |
+|    | CSS-in-JS (Styled Comp)|  |       |   |  - Firebase            |  |
+|    | Sass / SCSS           |  |       |   +-----------------------+  |
+|  +-----------------------+  |       |   +-----------------------+  |
+|    |                       |  |       |   |  APIs and Protocols   |  |
+|    | Testing (Jest, Mocha) |  |       |   |                       |  |
+|    | Webpack / Vite        |  |       |   |  - REST                |  |
+|    | React Native (Mobile) |  |       |   |  - GraphQL             |  |
+|    | Tailwind CSS          |  |       |   |  - WebSockets          |  |
+|  +-----------------------+  |       |   +-----------------------+  |
+|  +-----------------------+  |       |   |  Security & Authentication | |
+|  |  UX/UI Design          |  |       |   |                       |  |
+|  |  - Figma, Adobe XD    |  |       |   |  - OAuth2              |  |
+|  |  - Design Systems     |  |       |   |  - JWT (JSON Web Tokens) | |
+|  +-----------------------+  |       |   |  - Two-Factor Auth      |  |
+|    |                       |  |       |   |  - SSO (Single Sign-On) | |
+|    | Prototyping Tools     |  |       |   +-----------------------+  |
+|    | User Testing (Usability)| |     |   +-----------------------+  |
+|    |                       |  |       |   |  Microservices & Serverless| |
+|  +-----------------------+  |       |   |                       |  |
++---------------------------+  |       |   |  - Kubernetes          |  |
+                               |       |   |  - Docker              |  |
+                               |       |   |  - AWS Lambda         |  |
+                               |       |   |  - Google Cloud Run   |  |
+                               |       |   |  - Azure Functions    |  |
+                               |       |   +-----------------------+  |
+                               |       +---------------------------+
+                               |
+                               |    +---------------------------+
+                               |    |     DEVOPS & INFRASTRUCTURE|
+                               |    +---------------------------+
+                               |    |  - CI/CD (Jenkins, GitLab)| 
+                               |    |  - Cloud Providers (AWS, GCP, Azure) |
+                               |    |  - Configuration Management (Terraform, Ansible)|
+                               |    |  - Monitoring (Prometheus, Grafana)|
+                               |    |  - Log Management (ELK Stack, Splunk)|
+                               |    |  - Infrastructure as Code (CloudFormation)|
+                               |    |  - Network (Nginx, HAProxy)|
+                               |    |  - Deployment Pipelines|
+                               |    |  - Database Management (PostgreSQL, MongoDB, etc.)|
+                               |    +---------------------------+
+                               |
+                               |    +---------------------------+
+                               |    |   MACHINE LEARNING & AI    |
+                               |    +---------------------------+
+                               |    |  - Python (TensorFlow, PyTorch) |
+                               |    |  - Data Engineering (Apache Spark, Hadoop)|
+                               |    |  - Natural Language Processing (NLTK, HuggingFace)|
+                               |    |  - Computer Vision (OpenCV)|
+                               |    |  - Model Deployment (Flask, FastAPI)|
+                               |    +---------------------------+
++------------------------------------------------------------+
