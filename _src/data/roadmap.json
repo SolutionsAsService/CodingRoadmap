@@ -1,0 +1,86 @@
+{
+  "title": "Coding Roadmap",
+  "summary": "Full-stack development as a transit map: start on the Fundamentals line, then change at any interchange onto Frontend, Backend, DevOps or Machine Learning.",
+  "tracks": [
+    {
+      "id": "fundamentals", "bullet": "0", "name": "Fundamentals", "color": "#1b1c1f", "trunk": true,
+      "summary": "Every other line starts here. The languages, ideas and tools you use whatever you build.",
+      "stages": [
+        { "name": "First languages", "note": "One systems language and one scripting language teach you how computers and programs work.",
+          "topics": [["C", "https://en.cppreference.com/c"], ["C++", "https://en.cppreference.com/"], ["Python", "https://docs.python.org/3/"], ["JavaScript", "https://developer.mozilla.org/en-US/docs/Web/JavaScript"]] },
+        { "name": "Algorithms and data structures", "note": "Arrays, lists, trees, graphs and hash maps, and how to sort, search and reason about cost.", "topics": [] },
+        { "name": "Object-oriented programming", "note": "Classes, objects, interfaces and composition: how most large codebases are organised.", "topics": [] },
+        { "name": "Version control", "note": "Track every change, work on branches and review each other's code.",
+          "topics": [["Git", "https://git-scm.com/doc"], ["GitHub", "https://docs.github.com/"]] }
+      ]
+    },
+    {
+      "id": "frontend", "bullet": "1", "name": "Frontend", "color": "#c8102e",
+      "summary": "What people see and touch in the browser and on their phones.",
+      "stages": [
+        { "name": "The web platform", "note": "Semantic HTML, accessibility, responsive layout with Flexbox and Grid, and JavaScript in the browser.",
+          "topics": [["HTML", "https://developer.mozilla.org/en-US/docs/Web/HTML"], ["CSS", "https://developer.mozilla.org/en-US/docs/Web/CSS"], ["Accessibility", "https://www.w3.org/WAI/fundamentals/"], ["JavaScript", "https://developer.mozilla.org/en-US/docs/Web/JavaScript"]] },
+        { "name": "Frameworks and state", "note": "Component frameworks, and how an app keeps its data in step with its screen.",
+          "topics": [["React", "https://react.dev/"], ["Angular", "https://angular.dev/"], ["Vue", "https://vuejs.org/"], ["Svelte", "https://svelte.dev/"]] },
+        { "name": "Languages and styling", "note": "Typed JavaScript, and ways to write and organise styles at scale.",
+          "topics": [["TypeScript", "https://www.typescriptlang.org/docs/"], ["Sass / SCSS", "https://sass-lang.com/documentation/"], ["Tailwind CSS", "https://tailwindcss.com/docs"], ["CSS-in-JS (styled-components)", "https://styled-components.com/docs"]] },
+        { "name": "Build and test", "note": "Bundle code for the browser, and check it does what you think.",
+          "topics": [["Vite", "https://vite.dev/guide/"], ["webpack", "https://webpack.js.org/concepts/"], ["Jest", "https://jestjs.io/docs/getting-started"], ["Mocha", "https://mochajs.org/"]] },
+        { "name": "Mobile", "note": "The same component ideas, shipped as native apps.",
+          "topics": [["React Native", "https://reactnative.dev/docs/getting-started"]] },
+        { "name": "UX and UI design", "note": "Design systems, prototypes and testing with real users.",
+          "topics": [["Figma", "https://help.figma.com/"], ["Adobe XD", "https://helpx.adobe.com/xd/user-guide.html"], ["Design systems", ""], ["Prototyping", ""], ["Usability testing", "https://www.nngroup.com/articles/usability-testing-101/"]] }
+      ]
+    },
+    {
+      "id": "backend", "bullet": "2", "name": "Backend", "color": "#0039a6",
+      "summary": "Servers, data and the APIs that connect them.",
+      "stages": [
+        { "name": "Server-side languages", "note": "Pick one language and its main web framework, and learn it well.",
+          "topics": [["Node.js", "https://nodejs.org/en/learn"], ["Django", "https://docs.djangoproject.com/"], ["Flask", "https://flask.palletsprojects.com/"], ["Ruby on Rails", "https://guides.rubyonrails.org/"], ["Spring (Java)", "https://spring.io/guides"], ["Laravel (PHP)", "https://laravel.com/docs"], ["Gin (Go)", "https://gin-gonic.com/en/docs/"], ["Actix (Rust)", "https://actix.rs/docs/"], ["Ktor (Kotlin)", "https://ktor.io/docs/"]] },
+        { "name": "Databases", "note": "Relational databases for structured data, and NoSQL and in-memory stores for other shapes.",
+          "topics": [["PostgreSQL", "https://www.postgresql.org/docs/"], ["MySQL", "https://dev.mysql.com/doc/"], ["MongoDB", "https://www.mongodb.com/docs/"], ["Redis", "https://redis.io/docs/latest/"], ["Firebase", "https://firebase.google.com/docs"]] },
+        { "name": "APIs and protocols", "note": "How clients and servers talk to each other.",
+          "topics": [["REST", "https://developer.mozilla.org/en-US/docs/Glossary/REST"], ["GraphQL", "https://graphql.org/learn/"], ["WebSockets", "https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API"]] },
+        { "name": "Security and authentication", "note": "Who a user is, what they may do, and how to keep it that way.",
+          "topics": [["OAuth 2.0", "https://oauth.net/2/"], ["JWT", "https://datatracker.ietf.org/doc/html/rfc7519"], ["Two-factor authentication", ""], ["Single sign-on", ""]] },
+        { "name": "Microservices and serverless", "note": "Package services in containers, run them at scale, or run functions without managing servers.",
+          "topics": [["Docker", "https://docs.docker.com/"], ["Kubernetes", "https://kubernetes.io/docs/home/"], ["AWS Lambda", "https://docs.aws.amazon.com/lambda/"], ["Google Cloud Run", "https://cloud.google.com/run/docs"], ["Azure Functions", "https://learn.microsoft.com/en-us/azure/azure-functions/"]] }
+      ]
+    },
+    {
+      "id": "devops", "bullet": "3", "name": "DevOps and infrastructure", "color": "#00933c",
+      "summary": "Getting code from a commit to production, and keeping it running.",
+      "stages": [
+        { "name": "CI/CD and deployment pipelines", "note": "Build, test and ship every change automatically.",
+          "topics": [["Jenkins", "https://www.jenkins.io/doc/"], ["GitLab CI/CD", "https://docs.gitlab.com/ci/"]] },
+        { "name": "Cloud providers", "note": "Rent compute, storage and managed services instead of running your own.",
+          "topics": [["AWS", "https://docs.aws.amazon.com/"], ["Google Cloud", "https://cloud.google.com/docs"], ["Azure", "https://learn.microsoft.com/en-us/azure/"]] },
+        { "name": "Infrastructure as code", "note": "Describe servers and networks in files you can review and rebuild from.",
+          "topics": [["Terraform", "https://developer.hashicorp.com/terraform/docs"], ["Ansible", "https://docs.ansible.com/"], ["CloudFormation", "https://docs.aws.amazon.com/cloudformation/"]] },
+        { "name": "Networking", "note": "Route and balance traffic in front of your services.",
+          "topics": [["Nginx", "https://nginx.org/en/docs/"], ["HAProxy", "https://www.haproxy.org/"]] },
+        { "name": "Monitoring and logs", "note": "Know when something breaks, and why.",
+          "topics": [["Prometheus", "https://prometheus.io/docs/"], ["Grafana", "https://grafana.com/docs/"], ["Elastic Stack (ELK)", "https://www.elastic.co/docs"], ["Splunk", "https://docs.splunk.com/"]] },
+        { "name": "Database management", "note": "Backups, migrations and performance for the databases you run.",
+          "topics": [["PostgreSQL", "https://www.postgresql.org/docs/"], ["MongoDB", "https://www.mongodb.com/docs/"]] }
+      ]
+    },
+    {
+      "id": "ml", "bullet": "4", "name": "Machine learning and AI", "color": "#b933ad",
+      "summary": "Models that learn from data, and the systems that feed and serve them.",
+      "stages": [
+        { "name": "Python for machine learning", "note": "The two main deep-learning libraries.",
+          "topics": [["TensorFlow", "https://www.tensorflow.org/learn"], ["PyTorch", "https://docs.pytorch.org/docs/stable/"]] },
+        { "name": "Data engineering", "note": "Move and process data at the scale models need.",
+          "topics": [["Apache Spark", "https://spark.apache.org/docs/latest/"], ["Apache Hadoop", "https://hadoop.apache.org/docs/stable/"]] },
+        { "name": "Natural language processing", "note": "Working with text.",
+          "topics": [["NLTK", "https://www.nltk.org/"], ["Hugging Face", "https://huggingface.co/docs"]] },
+        { "name": "Computer vision", "note": "Working with images and video.",
+          "topics": [["OpenCV", "https://docs.opencv.org/"]] },
+        { "name": "Model deployment", "note": "Serve a trained model behind an API.",
+          "topics": [["Flask", "https://flask.palletsprojects.com/"], ["FastAPI", "https://fastapi.tiangolo.com/"]] }
+      ]
+    }
+  ]
+}

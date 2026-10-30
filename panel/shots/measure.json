@@ -1,0 +1,2154 @@
+{
+ "index-1440-light": {
+  "scrollW": 1440,
+  "innerW": 1440,
+  "height": 1504,
+  "lowContrast": [],
+  "smallTargets": [],
+  "links": [
+   "#main",
+   "index.html",
+   "fundamentals.html",
+   "frontend.html",
+   "backend.html",
+   "devops.html",
+   "ml.html",
+   "about.html",
+   "frontend.html",
+   "backend.html",
+   "devops.html",
+   "ml.html",
+   "fundamentals.html",
+   "fundamentals.html",
+   "frontend.html",
+   "backend.html",
+   "devops.html",
+   "ml.html",
+   "https://github.com/SolutionsAsService/CodingRoadmap",
+   "https://demo.ultimatebusinessmachines.com/portfolio"
+  ],
+  "h1": {
+   "text": "Coding Roadmap",
+   "fontSize": "83.2px",
+   "family": "\"Inter Tight\"",
+   "wdth": "normal"
+  },
+  "fontsLoaded": [
+   "Inter Tight 400",
+   "Inter Tight 500",
+   "Inter Tight 600",
+   "Inter Tight 800"
+  ],
+  "loadtest": [],
+  "focusWalk": [
+   {
+    "el": "A Skip to content",
+    "outline": "solid 3px rgb(18, 19, 22)",
+    "inView": true
+   },
+   {
+    "el": "A Coding Roadmap",
+    "outline": "solid 3px rgb(18, 19, 22)",
+    "inView": true
+   },
+   {
+    "el": "A Fundamentals",
+    "outline": "solid 3px rgb(18, 19, 22)",
+    "inView": true
+   },
+   {
+    "el": "A Frontend",
+    "outline": "solid 3px rgb(18, 19, 22)",
+    "inView": true
+   },
+   {
+    "el": "A Backend",
+    "outline": "solid 3px rgb(18, 19, 22)",
+    "inView": true
+   },
+   {
+    "el": "A DevOps and infrastructur",
+    "outline": "solid 3px rgb(18, 19, 22)",
+    "inView": true
+   }
+  ]
+ },
+ "fundamentals-1440-light": {
+  "scrollW": 1440,
+  "innerW": 1440,
+  "height": 1493,
+  "lowContrast": [],
+  "smallTargets": [],
+  "links": [
+   "#main",
+   "index.html",
+   "fundamentals.html",
+   "frontend.html",
+   "backend.html",
+   "devops.html",
+   "ml.html",
+   "about.html",
+   "https://en.cppreference.com/c",
+   "https://en.cppreference.com/",
+   "https://docs.python.org/3/",
+   "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
+   "https://git-scm.com/doc",
+   "https://docs.github.com/",
+   "frontend.html",
+   "https://github.com/SolutionsAsService/CodingRoadmap",
+   "https://demo.ultimatebusinessmachines.com/portfolio"
+  ],
+  "h1": {
+   "text": "Fundamentals line",
+   "fontSize": "83.2px",
+   "family": "\"Inter Tight\"",
+   "wdth": "normal"
+  },
+  "fontsLoaded": [
+   "Inter Tight 400",
+   "Inter Tight 500",
+   "Inter Tight 600",
+   "Inter Tight 800",
+   "JetBrains Mono 400"
+  ],
+  "loadtest": [],
+  "focusWalk": [
+   {
+    "el": "A Skip to content",
+    "outline": "solid 3px rgb(18, 19, 22)",
+    "inView": true
+   },
+   {
+    "el": "A Coding Roadmap",
+    "outline": "solid 3px rgb(18, 19, 22)",
+    "inView": true
+   },
+   {
+    "el": "A Fundamentals",
+    "outline": "solid 3px rgb(18, 19, 22)",
+    "inView": true
+   },
+   {
+    "el": "A Frontend",
+    "outline": "solid 3px rgb(18, 19, 22)",
+    "inView": true
+   },
+   {
+    "el": "A Backend",
+    "outline": "solid 3px rgb(18, 19, 22)",
+    "inView": true
+   },
+   {
+    "el": "A DevOps and infrastructur",
+    "outline": "solid 3px rgb(18, 19, 22)",
+    "inView": true
+   }
+  ]
+ },
+ "frontend-1440-light": {
+  "scrollW": 1440,
+  "innerW": 1440,
+  "height": 1807,
+  "lowContrast": [],
+  "smallTargets": [
+   {
+    "tag": "A",
+    "text": "Fundamentals",
+    "w": 109,
+    "h": 20
+   }
+  ],
+  "links": [
+   "#main",
+   "index.html",
+   "fundamentals.html",
+   "frontend.html",
+   "backend.html",
+   "devops.html",
+   "ml.html",
+   "about.html",
+   "fundamentals.html",
+   "https://developer.mozilla.org/en-US/docs/Web/HTML",
+   "https://developer.mozilla.org/en-US/docs/Web/CSS",
+   "https://www.w3.org/WAI/fundamentals/",
+   "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
+   "https://react.dev/",
+   "https://angular.dev/",
+   "https://vuejs.org/",
+   "https://svelte.dev/",
+   "https://www.typescriptlang.org/docs/",
+   "https://sass-lang.com/documentation/",
+   "https://tailwindcss.com/docs",
+   "https://styled-components.com/docs",
+   "https://vite.dev/guide/",
+   "https://webpack.js.org/concepts/",
+   "https://jestjs.io/docs/getting-started",
+   "https://mochajs.org/",
+   "https://reactnative.dev/docs/getting-started",
+   "https://help.figma.com/",
+   "https://helpx.adobe.com/xd/user-guide.html",
+   "https://www.nngroup.com/articles/usability-testing-101/",
+   "fundamentals.html",
+   "backend.html",
+   "https://github.com/SolutionsAsService/CodingRoadmap",
+   "https://demo.ultimatebusinessmachines.com/portfolio"
+  ],
+  "h1": {
+   "text": "Frontend line",
+   "fontSize": "83.2px",
+   "family": "\"Inter Tight\"",
+   "wdth": "normal"
+  },
+  "fontsLoaded": [
+   "Inter Tight 400",
+   "Inter Tight 500",
+   "Inter Tight 600",
+   "Inter Tight 800",
+   "JetBrains Mono 400"
+  ],
+  "loadtest": [],
+  "focusWalk": [
+   {
+    "el": "A Skip to content",
+    "outline": "solid 3px rgb(18, 19, 22)",
+    "inView": true
+   },
+   {
+    "el": "A Coding Roadmap",
+    "outline": "solid 3px rgb(18, 19, 22)",
+    "inView": true
+   },
+   {
+    "el": "A Fundamentals",
+    "outline": "solid 3px rgb(18, 19, 22)",
+    "inView": true
+   },
+   {
+    "el": "A Frontend",
+    "outline": "solid 3px rgb(18, 19, 22)",
+    "inView": true
+   },
+   {
+    "el": "A Backend",
+    "outline": "solid 3px rgb(18, 19, 22)",
+    "inView": true
+   },
+   {
+    "el": "A DevOps and infrastructur",
+    "outline": "solid 3px rgb(18, 19, 22)",
+    "inView": true
+   }
+  ]
+ },
+ "backend-1440-light": {
+  "scrollW": 1440,
+  "innerW": 1440,
+  "height": 1673,
+  "lowContrast": [],
+  "smallTargets": [
+   {
+    "tag": "A",
+    "text": "Fundamentals",
+    "w": 109,
+    "h": 20
+   }
+  ],
+  "links": [
+   "#main",
+   "index.html",
+   "fundamentals.html",
+   "frontend.html",
+   "backend.html",
+   "devops.html",
+   "ml.html",
+   "about.html",
+   "fundamentals.html",
+   "https://nodejs.org/en/learn",
+   "https://docs.djangoproject.com/",
+   "https://flask.palletsprojects.com/",
+   "https://guides.rubyonrails.org/",
+   "https://spring.io/guides",
+   "https://laravel.com/docs",
+   "https://gin-gonic.com/en/docs/",
+   "https://actix.rs/docs/",
+   "https://ktor.io/docs/",
+   "https://www.postgresql.org/docs/",
+   "https://dev.mysql.com/doc/",
+   "https://www.mongodb.com/docs/",
+   "https://redis.io/docs/latest/",
+   "https://firebase.google.com/docs",
+   "https://developer.mozilla.org/en-US/docs/Glossary/REST",
+   "https://graphql.org/learn/",
+   "https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API",
+   "https://oauth.net/2/",
+   "https://datatracker.ietf.org/doc/html/rfc7519",
+   "https://docs.docker.com/",
+   "https://kubernetes.io/docs/home/",
+   "https://docs.aws.amazon.com/lambda/",
+   "https://cloud.google.com/run/docs",
+   "https://learn.microsoft.com/en-us/azure/azure-functions/",
+   "frontend.html",
+   "devops.html",
+   "https://github.com/SolutionsAsService/CodingRoadmap",
+   "https://demo.ultimatebusinessmachines.com/portfolio"
+  ],
+  "h1": {
+   "text": "Backend line",
+   "fontSize": "83.2px",
+   "family": "\"Inter Tight\"",
+   "wdth": "normal"
+  },
+  "fontsLoaded": [
+   "Inter Tight 400",
+   "Inter Tight 500",
+   "Inter Tight 600",
+   "Inter Tight 800",
+   "JetBrains Mono 400"
+  ],
+  "loadtest": [],
+  "focusWalk": [
+   {
+    "el": "A Skip to content",
+    "outline": "solid 3px rgb(18, 19, 22)",
+    "inView": true
+   },
+   {
+    "el": "A Coding Roadmap",
+    "outline": "solid 3px rgb(18, 19, 22)",
+    "inView": true
+   },
+   {
+    "el": "A Fundamentals",
+    "outline": "solid 3px rgb(18, 19, 22)",
+    "inView": true
+   },
+   {
+    "el": "A Frontend",
+    "outline": "solid 3px rgb(18, 19, 22)",
+    "inView": true
+   },
+   {
+    "el": "A Backend",
+    "outline": "solid 3px rgb(18, 19, 22)",
+    "inView": true
+   },
+   {
+    "el": "A DevOps and infrastructur",
+    "outline": "solid 3px rgb(18, 19, 22)",
+    "inView": true
+   }
+  ]
+ },
+ "devops-1440-light": {
+  "scrollW": 1440,
+  "innerW": 1440,
+  "height": 1780,
+  "lowContrast": [],
+  "smallTargets": [
+   {
+    "tag": "A",
+    "text": "Fundamentals",
+    "w": 109,
+    "h": 20
+   }
+  ],
+  "links": [
+   "#main",
+   "index.html",
+   "fundamentals.html",
+   "frontend.html",
+   "backend.html",
+   "devops.html",
+   "ml.html",
+   "about.html",
+   "fundamentals.html",
+   "https://www.jenkins.io/doc/",
+   "https://docs.gitlab.com/ci/",
+   "https://docs.aws.amazon.com/",
+   "https://cloud.google.com/docs",
+   "https://learn.microsoft.com/en-us/azure/",
+   "https://developer.hashicorp.com/terraform/docs",
+   "https://docs.ansible.com/",
+   "https://docs.aws.amazon.com/cloudformation/",
+   "https://nginx.org/en/docs/",
+   "https://www.haproxy.org/",
+   "https://prometheus.io/docs/",
+   "https://grafana.com/docs/",
+   "https://www.elastic.co/docs",
+   "https://docs.splunk.com/",
+   "https://www.postgresql.org/docs/",
+   "https://www.mongodb.com/docs/",
+   "backend.html",
+   "ml.html",
+   "https://github.com/SolutionsAsService/CodingRoadmap",
+   "https://demo.ultimatebusinessmachines.com/portfolio"
+  ],
+  "h1": {
+   "text": "DevOps and infrastructure line",
+   "fontSize": "83.2px",
+   "family": "\"Inter Tight\"",
+   "wdth": "normal"
+  },
+  "fontsLoaded": [
+   "Inter Tight 400",
+   "Inter Tight 500",
+   "Inter Tight 600",
+   "Inter Tight 800",
+   "JetBrains Mono 400"
+  ],
+  "loadtest": [],
+  "focusWalk": [
+   {
+    "el": "A Skip to content",
+    "outline": "solid 3px rgb(18, 19, 22)",
+    "inView": true
+   },
+   {
+    "el": "A Coding Roadmap",
+    "outline": "solid 3px rgb(18, 19, 22)",
+    "inView": true
+   },
+   {
+    "el": "A Fundamentals",
+    "outline": "solid 3px rgb(18, 19, 22)",
+    "inView": true
+   },
+   {
+    "el": "A Frontend",
+    "outline": "solid 3px rgb(18, 19, 22)",
+    "inView": true
+   },
+   {
+    "el": "A Backend",
+    "outline": "solid 3px rgb(18, 19, 22)",
+    "inView": true
+   },
+   {
+    "el": "A DevOps and infrastructur",
+    "outline": "solid 3px rgb(18, 19, 22)",
+    "inView": true
+   }
+  ]
+ },
+ "ml-1440-light": {
+  "scrollW": 1440,
+  "innerW": 1440,
+  "height": 1619,
+  "lowContrast": [],
+  "smallTargets": [
+   {
+    "tag": "A",
+    "text": "Fundamentals",
+    "w": 109,
+    "h": 20
+   }
+  ],
+  "links": [
+   "#main",
+   "index.html",
+   "fundamentals.html",
+   "frontend.html",
+   "backend.html",
+   "devops.html",
+   "ml.html",
+   "about.html",
+   "fundamentals.html",
+   "https://www.tensorflow.org/learn",
+   "https://docs.pytorch.org/docs/stable/",
+   "https://spark.apache.org/docs/latest/",
+   "https://hadoop.apache.org/docs/stable/",
+   "https://www.nltk.org/",
+   "https://huggingface.co/docs",
+   "https://docs.opencv.org/",
+   "https://flask.palletsprojects.com/",
+   "https://fastapi.tiangolo.com/",
+   "devops.html",
+   "https://github.com/SolutionsAsService/CodingRoadmap",
+   "https://demo.ultimatebusinessmachines.com/portfolio"
+  ],
+  "h1": {
+   "text": "Machine learning and AI line",
+   "fontSize": "83.2px",
+   "family": "\"Inter Tight\"",
+   "wdth": "normal"
+  },
+  "fontsLoaded": [
+   "Inter Tight 400",
+   "Inter Tight 500",
+   "Inter Tight 600",
+   "Inter Tight 800",
+   "JetBrains Mono 400"
+  ],
+  "loadtest": [],
+  "focusWalk": [
+   {
+    "el": "A Skip to content",
+    "outline": "solid 3px rgb(18, 19, 22)",
+    "inView": true
+   },
+   {
+    "el": "A Coding Roadmap",
+    "outline": "solid 3px rgb(18, 19, 22)",
+    "inView": true
+   },
+   {
+    "el": "A Fundamentals",
+    "outline": "solid 3px rgb(18, 19, 22)",
+    "inView": true
+   },
+   {
+    "el": "A Frontend",
+    "outline": "solid 3px rgb(18, 19, 22)",
+    "inView": true
+   },
+   {
+    "el": "A Backend",
+    "outline": "solid 3px rgb(18, 19, 22)",
+    "inView": true
+   },
+   {
+    "el": "A DevOps and infrastructur",
+    "outline": "solid 3px rgb(18, 19, 22)",
+    "inView": true
+   }
+  ]
+ },
+ "about-1440-light": {
+  "scrollW": 1440,
+  "innerW": 1440,
+  "height": 2765,
+  "lowContrast": [],
+  "smallTargets": [
+   {
+    "tag": "A",
+    "text": "Fundamentals",
+    "w": 103,
+    "h": 20
+   },
+   {
+    "tag": "A",
+    "text": "Angular",
+    "w": 56,
+    "h": 20
+   },
+   {
+    "tag": "A",
+    "text": "GitHub",
+    "w": 52,
+    "h": 20
+   }
+  ],
+  "links": [
+   "#main",
+   "index.html",
+   "fundamentals.html",
+   "frontend.html",
+   "backend.html",
+   "devops.html",
+   "ml.html",
+   "about.html",
+   "fundamentals.html",
+   "https://angular.dev/",
+   "https://github.com/SolutionsAsService/CodingRoadmap",
+   "https://github.com/SolutionsAsService/CodingRoadmap",
+   "https://demo.ultimatebusinessmachines.com/portfolio"
+  ],
+  "h1": {
+   "text": "About this map",
+   "fontSize": "64px",
+   "family": "\"Inter Tight\"",
+   "wdth": "normal"
+  },
+  "fontsLoaded": [
+   "Inter Tight 400",
+   "Inter Tight 500",
+   "Inter Tight 600",
+   "Inter Tight 800",
+   "JetBrains Mono 400"
+  ],
+  "loadtest": [],
+  "focusWalk": [
+   {
+    "el": "A Skip to content",
+    "outline": "solid 3px rgb(18, 19, 22)",
+    "inView": true
+   },
+   {
+    "el": "A Coding Roadmap",
+    "outline": "solid 3px rgb(18, 19, 22)",
+    "inView": true
+   },
+   {
+    "el": "A Fundamentals",
+    "outline": "solid 3px rgb(18, 19, 22)",
+    "inView": true
+   },
+   {
+    "el": "A Frontend",
+    "outline": "solid 3px rgb(18, 19, 22)",
+    "inView": true
+   },
+   {
+    "el": "A Backend",
+    "outline": "solid 3px rgb(18, 19, 22)",
+    "inView": true
+   },
+   {
+    "el": "A DevOps and infrastructur",
+    "outline": "solid 3px rgb(18, 19, 22)",
+    "inView": true
+   }
+  ]
+ },
+ "404-1440-light": {
+  "scrollW": 1440,
+  "innerW": 1440,
+  "height": 900,
+  "lowContrast": [],
+  "smallTargets": [],
+  "links": [
+   "#main",
+   "index.html",
+   "fundamentals.html",
+   "frontend.html",
+   "backend.html",
+   "devops.html",
+   "ml.html",
+   "about.html",
+   "index.html",
+   "https://github.com/SolutionsAsService/CodingRoadmap",
+   "https://demo.ultimatebusinessmachines.com/portfolio"
+  ],
+  "h1": {
+   "text": "Wrong platform.",
+   "fontSize": "64px",
+   "family": "\"Inter Tight\"",
+   "wdth": "normal"
+  },
+  "fontsLoaded": [
+   "Inter Tight 400",
+   "Inter Tight 500",
+   "Inter Tight 600",
+   "Inter Tight 800"
+  ],
+  "loadtest": [],
+  "focusWalk": [
+   {
+    "el": "A Skip to content",
+    "outline": "solid 3px rgb(18, 19, 22)",
+    "inView": true
+   },
+   {
+    "el": "A Coding Roadmap",
+    "outline": "solid 3px rgb(18, 19, 22)",
+    "inView": true
+   },
+   {
+    "el": "A Fundamentals",
+    "outline": "solid 3px rgb(18, 19, 22)",
+    "inView": true
+   },
+   {
+    "el": "A Frontend",
+    "outline": "solid 3px rgb(18, 19, 22)",
+    "inView": true
+   },
+   {
+    "el": "A Backend",
+    "outline": "solid 3px rgb(18, 19, 22)",
+    "inView": true
+   },
+   {
+    "el": "A DevOps and infrastructur",
+    "outline": "solid 3px rgb(18, 19, 22)",
+    "inView": true
+   }
+  ]
+ },
+ "index-390-light": {
+  "scrollW": 390,
+  "innerW": 390,
+  "height": 2035,
+  "lowContrast": [],
+  "smallTargets": [],
+  "links": [
+   "#main",
+   "index.html",
+   "fundamentals.html",
+   "frontend.html",
+   "backend.html",
+   "devops.html",
+   "ml.html",
+   "about.html",
+   "frontend.html",
+   "backend.html",
+   "devops.html",
+   "ml.html",
+   "fundamentals.html",
+   "fundamentals.html",
+   "frontend.html",
+   "backend.html",
+   "devops.html",
+   "ml.html",
+   "https://github.com/SolutionsAsService/CodingRoadmap",
+   "https://demo.ultimatebusinessmachines.com/portfolio"
+  ],
+  "h1": {
+   "text": "Coding Roadmap",
+   "fontSize": "41.9px",
+   "family": "\"Inter Tight\"",
+   "wdth": "normal"
+  },
+  "fontsLoaded": [
+   "Inter Tight 400",
+   "Inter Tight 500",
+   "Inter Tight 600",
+   "Inter Tight 800"
+  ],
+  "loadtest": [],
+  "focusWalk": [
+   {
+    "el": "A Skip to content",
+    "outline": "solid 3px rgb(18, 19, 22)",
+    "inView": true
+   },
+   {
+    "el": "A Coding Roadmap",
+    "outline": "solid 3px rgb(18, 19, 22)",
+    "inView": true
+   },
+   {
+    "el": "A Fundamentals",
+    "outline": "solid 3px rgb(18, 19, 22)",
+    "inView": true
+   },
+   {
+    "el": "A Frontend",
+    "outline": "solid 3px rgb(18, 19, 22)",
+    "inView": true
+   },
+   {
+    "el": "A Backend",
+    "outline": "solid 3px rgb(18, 19, 22)",
+    "inView": true
+   },
+   {
+    "el": "A DevOps and infrastructur",
+    "outline": "solid 3px rgb(18, 19, 22)",
+    "inView": true
+   }
+  ]
+ },
+ "fundamentals-390-light": {
+  "scrollW": 390,
+  "innerW": 390,
+  "height": 1601,
+  "lowContrast": [],
+  "smallTargets": [],
+  "links": [
+   "#main",
+   "index.html",
+   "fundamentals.html",
+   "frontend.html",
+   "backend.html",
+   "devops.html",
+   "ml.html",
+   "about.html",
+   "https://en.cppreference.com/c",
+   "https://en.cppreference.com/",
+   "https://docs.python.org/3/",
+   "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
+   "https://git-scm.com/doc",
+   "https://docs.github.com/",
+   "frontend.html",
+   "https://github.com/SolutionsAsService/CodingRoadmap",
+   "https://demo.ultimatebusinessmachines.com/portfolio"
+  ],
+  "h1": {
+   "text": "Fundamentals line",
+   "fontSize": "41.9px",
+   "family": "\"Inter Tight\"",
+   "wdth": "normal"
+  },
+  "fontsLoaded": [
+   "Inter Tight 400",
+   "Inter Tight 500",
+   "Inter Tight 600",
+   "Inter Tight 800",
+   "JetBrains Mono 400"
+  ],
+  "loadtest": [],
+  "focusWalk": [
+   {
+    "el": "A Skip to content",
+    "outline": "solid 3px rgb(18, 19, 22)",
+    "inView": true
+   },
+   {
+    "el": "A Coding Roadmap",
+    "outline": "solid 3px rgb(18, 19, 22)",
+    "inView": true
+   },
+   {
+    "el": "A Fundamentals",
+    "outline": "solid 3px rgb(18, 19, 22)",
+    "inView": true
+   },
+   {
+    "el": "A Frontend",
+    "outline": "solid 3px rgb(18, 19, 22)",
+    "inView": true
+   },
+   {
+    "el": "A Backend",
+    "outline": "solid 3px rgb(18, 19, 22)",
+    "inView": true
+   },
+   {
+    "el": "A DevOps and infrastructur",
+    "outline": "solid 3px rgb(18, 19, 22)",
+    "inView": true
+   }
+  ]
+ },
+ "frontend-390-light": {
+  "scrollW": 390,
+  "innerW": 390,
+  "height": 2345,
+  "lowContrast": [],
+  "smallTargets": [
+   {
+    "tag": "A",
+    "text": "Fundamentals",
+    "w": 109,
+    "h": 20
+   }
+  ],
+  "links": [
+   "#main",
+   "index.html",
+   "fundamentals.html",
+   "frontend.html",
+   "backend.html",
+   "devops.html",
+   "ml.html",
+   "about.html",
+   "fundamentals.html",
+   "https://developer.mozilla.org/en-US/docs/Web/HTML",
+   "https://developer.mozilla.org/en-US/docs/Web/CSS",
+   "https://www.w3.org/WAI/fundamentals/",
+   "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
+   "https://react.dev/",
+   "https://angular.dev/",
+   "https://vuejs.org/",
+   "https://svelte.dev/",
+   "https://www.typescriptlang.org/docs/",
+   "https://sass-lang.com/documentation/",
+   "https://tailwindcss.com/docs",
+   "https://styled-components.com/docs",
+   "https://vite.dev/guide/",
+   "https://webpack.js.org/concepts/",
+   "https://jestjs.io/docs/getting-started",
+   "https://mochajs.org/",
+   "https://reactnative.dev/docs/getting-started",
+   "https://help.figma.com/",
+   "https://helpx.adobe.com/xd/user-guide.html",
+   "https://www.nngroup.com/articles/usability-testing-101/",
+   "fundamentals.html",
+   "backend.html",
+   "https://github.com/SolutionsAsService/CodingRoadmap",
+   "https://demo.ultimatebusinessmachines.com/portfolio"
+  ],
+  "h1": {
+   "text": "Frontend line",
+   "fontSize": "41.9px",
+   "family": "\"Inter Tight\"",
+   "wdth": "normal"
+  },
+  "fontsLoaded": [
+   "Inter Tight 400",
+   "Inter Tight 500",
+   "Inter Tight 600",
+   "Inter Tight 800",
+   "JetBrains Mono 400"
+  ],
+  "loadtest": [],
+  "focusWalk": [
+   {
+    "el": "A Skip to content",
+    "outline": "solid 3px rgb(18, 19, 22)",
+    "inView": true
+   },
+   {
+    "el": "A Coding Roadmap",
+    "outline": "solid 3px rgb(18, 19, 22)",
+    "inView": true
+   },
+   {
+    "el": "A Fundamentals",
+    "outline": "solid 3px rgb(18, 19, 22)",
+    "inView": true
+   },
+   {
+    "el": "A Frontend",
+    "outline": "solid 3px rgb(18, 19, 22)",
+    "inView": true
+   },
+   {
+    "el": "A Backend",
+    "outline": "solid 3px rgb(18, 19, 22)",
+    "inView": true
+   },
+   {
+    "el": "A DevOps and infrastructur",
+    "outline": "solid 3px rgb(18, 19, 22)",
+    "inView": true
+   }
+  ]
+ },
+ "backend-390-light": {
+  "scrollW": 390,
+  "innerW": 390,
+  "height": 2234,
+  "lowContrast": [],
+  "smallTargets": [
+   {
+    "tag": "A",
+    "text": "Fundamentals",
+    "w": 109,
+    "h": 20
+   }
+  ],
+  "links": [
+   "#main",
+   "index.html",
+   "fundamentals.html",
+   "frontend.html",
+   "backend.html",
+   "devops.html",
+   "ml.html",
+   "about.html",
+   "fundamentals.html",
+   "https://nodejs.org/en/learn",
+   "https://docs.djangoproject.com/",
+   "https://flask.palletsprojects.com/",
+   "https://guides.rubyonrails.org/",
+   "https://spring.io/guides",
+   "https://laravel.com/docs",
+   "https://gin-gonic.com/en/docs/",
+   "https://actix.rs/docs/",
+   "https://ktor.io/docs/",
+   "https://www.postgresql.org/docs/",
+   "https://dev.mysql.com/doc/",
+   "https://www.mongodb.com/docs/",
+   "https://redis.io/docs/latest/",
+   "https://firebase.google.com/docs",
+   "https://developer.mozilla.org/en-US/docs/Glossary/REST",
+   "https://graphql.org/learn/",
+   "https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API",
+   "https://oauth.net/2/",
+   "https://datatracker.ietf.org/doc/html/rfc7519",
+   "https://docs.docker.com/",
+   "https://kubernetes.io/docs/home/",
+   "https://docs.aws.amazon.com/lambda/",
+   "https://cloud.google.com/run/docs",
+   "https://learn.microsoft.com/en-us/azure/azure-functions/",
+   "frontend.html",
+   "devops.html",
+   "https://github.com/SolutionsAsService/CodingRoadmap",
+   "https://demo.ultimatebusinessmachines.com/portfolio"
+  ],
+  "h1": {
+   "text": "Backend line",
+   "fontSize": "41.9px",
+   "family": "\"Inter Tight\"",
+   "wdth": "normal"
+  },
+  "fontsLoaded": [
+   "Inter Tight 400",
+   "Inter Tight 500",
+   "Inter Tight 600",
+   "Inter Tight 800",
+   "JetBrains Mono 400"
+  ],
+  "loadtest": [],
+  "focusWalk": [
+   {
+    "el": "A Skip to content",
+    "outline": "solid 3px rgb(18, 19, 22)",
+    "inView": true
+   },
+   {
+    "el": "A Coding Roadmap",
+    "outline": "solid 3px rgb(18, 19, 22)",
+    "inView": true
+   },
+   {
+    "el": "A Fundamentals",
+    "outline": "solid 3px rgb(18, 19, 22)",
+    "inView": true
+   },
+   {
+    "el": "A Frontend",
+    "outline": "solid 3px rgb(18, 19, 22)",
+    "inView": true
+   },
+   {
+    "el": "A Backend",
+    "outline": "solid 3px rgb(18, 19, 22)",
+    "inView": true
+   },
+   {
+    "el": "A DevOps and infrastructur",
+    "outline": "solid 3px rgb(18, 19, 22)",
+    "inView": true
+   }
+  ]
+ },
+ "devops-390-light": {
+  "scrollW": 390,
+  "innerW": 390,
+  "height": 2116,
+  "lowContrast": [],
+  "smallTargets": [
+   {
+    "tag": "A",
+    "text": "Fundamentals",
+    "w": 109,
+    "h": 20
+   }
+  ],
+  "links": [
+   "#main",
+   "index.html",
+   "fundamentals.html",
+   "frontend.html",
+   "backend.html",
+   "devops.html",
+   "ml.html",
+   "about.html",
+   "fundamentals.html",
+   "https://www.jenkins.io/doc/",
+   "https://docs.gitlab.com/ci/",
+   "https://docs.aws.amazon.com/",
+   "https://cloud.google.com/docs",
+   "https://learn.microsoft.com/en-us/azure/",
+   "https://developer.hashicorp.com/terraform/docs",
+   "https://docs.ansible.com/",
+   "https://docs.aws.amazon.com/cloudformation/",
+   "https://nginx.org/en/docs/",
+   "https://www.haproxy.org/",
+   "https://prometheus.io/docs/",
+   "https://grafana.com/docs/",
+   "https://www.elastic.co/docs",
+   "https://docs.splunk.com/",
+   "https://www.postgresql.org/docs/",
+   "https://www.mongodb.com/docs/",
+   "backend.html",
+   "ml.html",
+   "https://github.com/SolutionsAsService/CodingRoadmap",
+   "https://demo.ultimatebusinessmachines.com/portfolio"
+  ],
+  "h1": {
+   "text": "DevOps and infrastructure line",
+   "fontSize": "41.9px",
+   "family": "\"Inter Tight\"",
+   "wdth": "normal"
+  },
+  "fontsLoaded": [
+   "Inter Tight 400",
+   "Inter Tight 500",
+   "Inter Tight 600",
+   "Inter Tight 800",
+   "JetBrains Mono 400"
+  ],
+  "loadtest": [],
+  "focusWalk": [
+   {
+    "el": "A Skip to content",
+    "outline": "solid 3px rgb(18, 19, 22)",
+    "inView": true
+   },
+   {
+    "el": "A Coding Roadmap",
+    "outline": "solid 3px rgb(18, 19, 22)",
+    "inView": true
+   },
+   {
+    "el": "A Fundamentals",
+    "outline": "solid 3px rgb(18, 19, 22)",
+    "inView": true
+   },
+   {
+    "el": "A Frontend",
+    "outline": "solid 3px rgb(18, 19, 22)",
+    "inView": true
+   },
+   {
+    "el": "A Backend",
+    "outline": "solid 3px rgb(18, 19, 22)",
+    "inView": true
+   },
+   {
+    "el": "A DevOps and infrastructur",
+    "outline": "solid 3px rgb(18, 19, 22)",
+    "inView": true
+   }
+  ]
+ },
+ "ml-390-light": {
+  "scrollW": 390,
+  "innerW": 390,
+  "height": 1646,
+  "lowContrast": [],
+  "smallTargets": [
+   {
+    "tag": "A",
+    "text": "Fundamentals",
+    "w": 109,
+    "h": 20
+   }
+  ],
+  "links": [
+   "#main",
+   "index.html",
+   "fundamentals.html",
+   "frontend.html",
+   "backend.html",
+   "devops.html",
+   "ml.html",
+   "about.html",
+   "fundamentals.html",
+   "https://www.tensorflow.org/learn",
+   "https://docs.pytorch.org/docs/stable/",
+   "https://spark.apache.org/docs/latest/",
+   "https://hadoop.apache.org/docs/stable/",
+   "https://www.nltk.org/",
+   "https://huggingface.co/docs",
+   "https://docs.opencv.org/",
+   "https://flask.palletsprojects.com/",
+   "https://fastapi.tiangolo.com/",
+   "devops.html",
+   "https://github.com/SolutionsAsService/CodingRoadmap",
+   "https://demo.ultimatebusinessmachines.com/portfolio"
+  ],
+  "h1": {
+   "text": "Machine learning and AI line",
+   "fontSize": "41.9px",
+   "family": "\"Inter Tight\"",
+   "wdth": "normal"
+  },
+  "fontsLoaded": [
+   "Inter Tight 400",
+   "Inter Tight 500",
+   "Inter Tight 600",
+   "Inter Tight 800",
+   "JetBrains Mono 400"
+  ],
+  "loadtest": [],
+  "focusWalk": [
+   {
+    "el": "A Skip to content",
+    "outline": "solid 3px rgb(18, 19, 22)",
+    "inView": true
+   },
+   {
+    "el": "A Coding Roadmap",
+    "outline": "solid 3px rgb(18, 19, 22)",
+    "inView": true
+   },
+   {
+    "el": "A Fundamentals",
+    "outline": "solid 3px rgb(18, 19, 22)",
+    "inView": true
+   },
+   {
+    "el": "A Frontend",
+    "outline": "solid 3px rgb(18, 19, 22)",
+    "inView": true
+   },
+   {
+    "el": "A Backend",
+    "outline": "solid 3px rgb(18, 19, 22)",
+    "inView": true
+   },
+   {
+    "el": "A DevOps and infrastructur",
+    "outline": "solid 3px rgb(18, 19, 22)",
+    "inView": true
+   }
+  ]
+ },
+ "about-390-light": {
+  "scrollW": 390,
+  "innerW": 390,
+  "height": 2900,
+  "lowContrast": [],
+  "smallTargets": [
+   {
+    "tag": "A",
+    "text": "Fundamentals",
+    "w": 103,
+    "h": 20
+   },
+   {
+    "tag": "A",
+    "text": "Angular",
+    "w": 56,
+    "h": 20
+   },
+   {
+    "tag": "A",
+    "text": "GitHub",
+    "w": 52,
+    "h": 20
+   }
+  ],
+  "links": [
+   "#main",
+   "index.html",
+   "fundamentals.html",
+   "frontend.html",
+   "backend.html",
+   "devops.html",
+   "ml.html",
+   "about.html",
+   "fundamentals.html",
+   "https://angular.dev/",
+   "https://github.com/SolutionsAsService/CodingRoadmap",
+   "https://github.com/SolutionsAsService/CodingRoadmap",
+   "https://demo.ultimatebusinessmachines.com/portfolio"
+  ],
+  "h1": {
+   "text": "About this map",
+   "fontSize": "35.2px",
+   "family": "\"Inter Tight\"",
+   "wdth": "normal"
+  },
+  "fontsLoaded": [
+   "Inter Tight 400",
+   "Inter Tight 500",
+   "Inter Tight 600",
+   "Inter Tight 800",
+   "JetBrains Mono 400"
+  ],
+  "loadtest": [],
+  "focusWalk": [
+   {
+    "el": "A Skip to content",
+    "outline": "solid 3px rgb(18, 19, 22)",
+    "inView": true
+   },
+   {
+    "el": "A Coding Roadmap",
+    "outline": "solid 3px rgb(18, 19, 22)",
+    "inView": true
+   },
+   {
+    "el": "A Fundamentals",
+    "outline": "solid 3px rgb(18, 19, 22)",
+    "inView": true
+   },
+   {
+    "el": "A Frontend",
+    "outline": "solid 3px rgb(18, 19, 22)",
+    "inView": true
+   },
+   {
+    "el": "A Backend",
+    "outline": "solid 3px rgb(18, 19, 22)",
+    "inView": true
+   },
+   {
+    "el": "A DevOps and infrastructur",
+    "outline": "solid 3px rgb(18, 19, 22)",
+    "inView": true
+   }
+  ]
+ },
+ "404-390-light": {
+  "scrollW": 390,
+  "innerW": 390,
+  "height": 844,
+  "lowContrast": [],
+  "smallTargets": [],
+  "links": [
+   "#main",
+   "index.html",
+   "fundamentals.html",
+   "frontend.html",
+   "backend.html",
+   "devops.html",
+   "ml.html",
+   "about.html",
+   "index.html",
+   "https://github.com/SolutionsAsService/CodingRoadmap",
+   "https://demo.ultimatebusinessmachines.com/portfolio"
+  ],
+  "h1": {
+   "text": "Wrong platform.",
+   "fontSize": "35.2px",
+   "family": "\"Inter Tight\"",
+   "wdth": "normal"
+  },
+  "fontsLoaded": [
+   "Inter Tight 400",
+   "Inter Tight 500",
+   "Inter Tight 600",
+   "Inter Tight 800"
+  ],
+  "loadtest": [],
+  "focusWalk": [
+   {
+    "el": "A Skip to content",
+    "outline": "solid 3px rgb(18, 19, 22)",
+    "inView": true
+   },
+   {
+    "el": "A Coding Roadmap",
+    "outline": "solid 3px rgb(18, 19, 22)",
+    "inView": true
+   },
+   {
+    "el": "A Fundamentals",
+    "outline": "solid 3px rgb(18, 19, 22)",
+    "inView": true
+   },
+   {
+    "el": "A Frontend",
+    "outline": "solid 3px rgb(18, 19, 22)",
+    "inView": true
+   },
+   {
+    "el": "A Backend",
+    "outline": "solid 3px rgb(18, 19, 22)",
+    "inView": true
+   },
+   {
+    "el": "A DevOps and infrastructur",
+    "outline": "solid 3px rgb(18, 19, 22)",
+    "inView": true
+   }
+  ]
+ },
+ "index-1440-dark": {
+  "scrollW": 1440,
+  "innerW": 1440,
+  "height": 1504,
+  "lowContrast": [],
+  "smallTargets": [],
+  "links": [
+   "#main",
+   "index.html",
+   "fundamentals.html",
+   "frontend.html",
+   "backend.html",
+   "devops.html",
+   "ml.html",
+   "about.html",
+   "frontend.html",
+   "backend.html",
+   "devops.html",
+   "ml.html",
+   "fundamentals.html",
+   "fundamentals.html",
+   "frontend.html",
+   "backend.html",
+   "devops.html",
+   "ml.html",
+   "https://github.com/SolutionsAsService/CodingRoadmap",
+   "https://demo.ultimatebusinessmachines.com/portfolio"
+  ],
+  "h1": {
+   "text": "Coding Roadmap",
+   "fontSize": "83.2px",
+   "family": "\"Inter Tight\"",
+   "wdth": "normal"
+  },
+  "fontsLoaded": [
+   "Inter Tight 400",
+   "Inter Tight 500",
+   "Inter Tight 600",
+   "Inter Tight 800"
+  ],
+  "loadtest": []
+ },
+ "fundamentals-1440-dark": {
+  "scrollW": 1440,
+  "innerW": 1440,
+  "height": 1493,
+  "lowContrast": [],
+  "smallTargets": [],
+  "links": [
+   "#main",
+   "index.html",
+   "fundamentals.html",
+   "frontend.html",
+   "backend.html",
+   "devops.html",
+   "ml.html",
+   "about.html",
+   "https://en.cppreference.com/c",
+   "https://en.cppreference.com/",
+   "https://docs.python.org/3/",
+   "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
+   "https://git-scm.com/doc",
+   "https://docs.github.com/",
+   "frontend.html",
+   "https://github.com/SolutionsAsService/CodingRoadmap",
+   "https://demo.ultimatebusinessmachines.com/portfolio"
+  ],
+  "h1": {
+   "text": "Fundamentals line",
+   "fontSize": "83.2px",
+   "family": "\"Inter Tight\"",
+   "wdth": "normal"
+  },
+  "fontsLoaded": [
+   "Inter Tight 400",
+   "Inter Tight 500",
+   "Inter Tight 600",
+   "Inter Tight 800",
+   "JetBrains Mono 400"
+  ],
+  "loadtest": []
+ },
+ "frontend-1440-dark": {
+  "scrollW": 1440,
+  "innerW": 1440,
+  "height": 1807,
+  "lowContrast": [],
+  "smallTargets": [
+   {
+    "tag": "A",
+    "text": "Fundamentals",
+    "w": 109,
+    "h": 20
+   }
+  ],
+  "links": [
+   "#main",
+   "index.html",
+   "fundamentals.html",
+   "frontend.html",
+   "backend.html",
+   "devops.html",
+   "ml.html",
+   "about.html",
+   "fundamentals.html",
+   "https://developer.mozilla.org/en-US/docs/Web/HTML",
+   "https://developer.mozilla.org/en-US/docs/Web/CSS",
+   "https://www.w3.org/WAI/fundamentals/",
+   "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
+   "https://react.dev/",
+   "https://angular.dev/",
+   "https://vuejs.org/",
+   "https://svelte.dev/",
+   "https://www.typescriptlang.org/docs/",
+   "https://sass-lang.com/documentation/",
+   "https://tailwindcss.com/docs",
+   "https://styled-components.com/docs",
+   "https://vite.dev/guide/",
+   "https://webpack.js.org/concepts/",
+   "https://jestjs.io/docs/getting-started",
+   "https://mochajs.org/",
+   "https://reactnative.dev/docs/getting-started",
+   "https://help.figma.com/",
+   "https://helpx.adobe.com/xd/user-guide.html",
+   "https://www.nngroup.com/articles/usability-testing-101/",
+   "fundamentals.html",
+   "backend.html",
+   "https://github.com/SolutionsAsService/CodingRoadmap",
+   "https://demo.ultimatebusinessmachines.com/portfolio"
+  ],
+  "h1": {
+   "text": "Frontend line",
+   "fontSize": "83.2px",
+   "family": "\"Inter Tight\"",
+   "wdth": "normal"
+  },
+  "fontsLoaded": [
+   "Inter Tight 400",
+   "Inter Tight 500",
+   "Inter Tight 600",
+   "Inter Tight 800",
+   "JetBrains Mono 400"
+  ],
+  "loadtest": []
+ },
+ "backend-1440-dark": {
+  "scrollW": 1440,
+  "innerW": 1440,
+  "height": 1673,
+  "lowContrast": [],
+  "smallTargets": [
+   {
+    "tag": "A",
+    "text": "Fundamentals",
+    "w": 109,
+    "h": 20
+   }
+  ],
+  "links": [
+   "#main",
+   "index.html",
+   "fundamentals.html",
+   "frontend.html",
+   "backend.html",
+   "devops.html",
+   "ml.html",
+   "about.html",
+   "fundamentals.html",
+   "https://nodejs.org/en/learn",
+   "https://docs.djangoproject.com/",
+   "https://flask.palletsprojects.com/",
+   "https://guides.rubyonrails.org/",
+   "https://spring.io/guides",
+   "https://laravel.com/docs",
+   "https://gin-gonic.com/en/docs/",
+   "https://actix.rs/docs/",
+   "https://ktor.io/docs/",
+   "https://www.postgresql.org/docs/",
+   "https://dev.mysql.com/doc/",
+   "https://www.mongodb.com/docs/",
+   "https://redis.io/docs/latest/",
+   "https://firebase.google.com/docs",
+   "https://developer.mozilla.org/en-US/docs/Glossary/REST",
+   "https://graphql.org/learn/",
+   "https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API",
+   "https://oauth.net/2/",
+   "https://datatracker.ietf.org/doc/html/rfc7519",
+   "https://docs.docker.com/",
+   "https://kubernetes.io/docs/home/",
+   "https://docs.aws.amazon.com/lambda/",
+   "https://cloud.google.com/run/docs",
+   "https://learn.microsoft.com/en-us/azure/azure-functions/",
+   "frontend.html",
+   "devops.html",
+   "https://github.com/SolutionsAsService/CodingRoadmap",
+   "https://demo.ultimatebusinessmachines.com/portfolio"
+  ],
+  "h1": {
+   "text": "Backend line",
+   "fontSize": "83.2px",
+   "family": "\"Inter Tight\"",
+   "wdth": "normal"
+  },
+  "fontsLoaded": [
+   "Inter Tight 400",
+   "Inter Tight 500",
+   "Inter Tight 600",
+   "Inter Tight 800",
+   "JetBrains Mono 400"
+  ],
+  "loadtest": []
+ },
+ "devops-1440-dark": {
+  "scrollW": 1440,
+  "innerW": 1440,
+  "height": 1780,
+  "lowContrast": [],
+  "smallTargets": [
+   {
+    "tag": "A",
+    "text": "Fundamentals",
+    "w": 109,
+    "h": 20
+   }
+  ],
+  "links": [
+   "#main",
+   "index.html",
+   "fundamentals.html",
+   "frontend.html",
+   "backend.html",
+   "devops.html",
+   "ml.html",
+   "about.html",
+   "fundamentals.html",
+   "https://www.jenkins.io/doc/",
+   "https://docs.gitlab.com/ci/",
+   "https://docs.aws.amazon.com/",
+   "https://cloud.google.com/docs",
+   "https://learn.microsoft.com/en-us/azure/",
+   "https://developer.hashicorp.com/terraform/docs",
+   "https://docs.ansible.com/",
+   "https://docs.aws.amazon.com/cloudformation/",
+   "https://nginx.org/en/docs/",
+   "https://www.haproxy.org/",
+   "https://prometheus.io/docs/",
+   "https://grafana.com/docs/",
+   "https://www.elastic.co/docs",
+   "https://docs.splunk.com/",
+   "https://www.postgresql.org/docs/",
+   "https://www.mongodb.com/docs/",
+   "backend.html",
+   "ml.html",
+   "https://github.com/SolutionsAsService/CodingRoadmap",
+   "https://demo.ultimatebusinessmachines.com/portfolio"
+  ],
+  "h1": {
+   "text": "DevOps and infrastructure line",
+   "fontSize": "83.2px",
+   "family": "\"Inter Tight\"",
+   "wdth": "normal"
+  },
+  "fontsLoaded": [
+   "Inter Tight 400",
+   "Inter Tight 500",
+   "Inter Tight 600",
+   "Inter Tight 800",
+   "JetBrains Mono 400"
+  ],
+  "loadtest": []
+ },
+ "ml-1440-dark": {
+  "scrollW": 1440,
+  "innerW": 1440,
+  "height": 1619,
+  "lowContrast": [],
+  "smallTargets": [
+   {
+    "tag": "A",
+    "text": "Fundamentals",
+    "w": 109,
+    "h": 20
+   }
+  ],
+  "links": [
+   "#main",
+   "index.html",
+   "fundamentals.html",
+   "frontend.html",
+   "backend.html",
+   "devops.html",
+   "ml.html",
+   "about.html",
+   "fundamentals.html",
+   "https://www.tensorflow.org/learn",
+   "https://docs.pytorch.org/docs/stable/",
+   "https://spark.apache.org/docs/latest/",
+   "https://hadoop.apache.org/docs/stable/",
+   "https://www.nltk.org/",
+   "https://huggingface.co/docs",
+   "https://docs.opencv.org/",
+   "https://flask.palletsprojects.com/",
+   "https://fastapi.tiangolo.com/",
+   "devops.html",
+   "https://github.com/SolutionsAsService/CodingRoadmap",
+   "https://demo.ultimatebusinessmachines.com/portfolio"
+  ],
+  "h1": {
+   "text": "Machine learning and AI line",
+   "fontSize": "83.2px",
+   "family": "\"Inter Tight\"",
+   "wdth": "normal"
+  },
+  "fontsLoaded": [
+   "Inter Tight 400",
+   "Inter Tight 500",
+   "Inter Tight 600",
+   "Inter Tight 800",
+   "JetBrains Mono 400"
+  ],
+  "loadtest": []
+ },
+ "about-1440-dark": {
+  "scrollW": 1440,
+  "innerW": 1440,
+  "height": 2765,
+  "lowContrast": [],
+  "smallTargets": [
+   {
+    "tag": "A",
+    "text": "Fundamentals",
+    "w": 103,
+    "h": 20
+   },
+   {
+    "tag": "A",
+    "text": "Angular",
+    "w": 56,
+    "h": 20
+   },
+   {
+    "tag": "A",
+    "text": "GitHub",
+    "w": 52,
+    "h": 20
+   }
+  ],
+  "links": [
+   "#main",
+   "index.html",
+   "fundamentals.html",
+   "frontend.html",
+   "backend.html",
+   "devops.html",
+   "ml.html",
+   "about.html",
+   "fundamentals.html",
+   "https://angular.dev/",
+   "https://github.com/SolutionsAsService/CodingRoadmap",
+   "https://github.com/SolutionsAsService/CodingRoadmap",
+   "https://demo.ultimatebusinessmachines.com/portfolio"
+  ],
+  "h1": {
+   "text": "About this map",
+   "fontSize": "64px",
+   "family": "\"Inter Tight\"",
+   "wdth": "normal"
+  },
+  "fontsLoaded": [
+   "Inter Tight 400",
+   "Inter Tight 500",
+   "Inter Tight 600",
+   "Inter Tight 800",
+   "JetBrains Mono 400"
+  ],
+  "loadtest": []
+ },
+ "404-1440-dark": {
+  "scrollW": 1440,
+  "innerW": 1440,
+  "height": 900,
+  "lowContrast": [],
+  "smallTargets": [],
+  "links": [
+   "#main",
+   "index.html",
+   "fundamentals.html",
+   "frontend.html",
+   "backend.html",
+   "devops.html",
+   "ml.html",
+   "about.html",
+   "index.html",
+   "https://github.com/SolutionsAsService/CodingRoadmap",
+   "https://demo.ultimatebusinessmachines.com/portfolio"
+  ],
+  "h1": {
+   "text": "Wrong platform.",
+   "fontSize": "64px",
+   "family": "\"Inter Tight\"",
+   "wdth": "normal"
+  },
+  "fontsLoaded": [
+   "Inter Tight 400",
+   "Inter Tight 500",
+   "Inter Tight 600",
+   "Inter Tight 800"
+  ],
+  "loadtest": []
+ },
+ "index-390-dark": {
+  "scrollW": 390,
+  "innerW": 390,
+  "height": 2035,
+  "lowContrast": [],
+  "smallTargets": [],
+  "links": [
+   "#main",
+   "index.html",
+   "fundamentals.html",
+   "frontend.html",
+   "backend.html",
+   "devops.html",
+   "ml.html",
+   "about.html",
+   "frontend.html",
+   "backend.html",
+   "devops.html",
+   "ml.html",
+   "fundamentals.html",
+   "fundamentals.html",
+   "frontend.html",
+   "backend.html",
+   "devops.html",
+   "ml.html",
+   "https://github.com/SolutionsAsService/CodingRoadmap",
+   "https://demo.ultimatebusinessmachines.com/portfolio"
+  ],
+  "h1": {
+   "text": "Coding Roadmap",
+   "fontSize": "41.9px",
+   "family": "\"Inter Tight\"",
+   "wdth": "normal"
+  },
+  "fontsLoaded": [
+   "Inter Tight 400",
+   "Inter Tight 500",
+   "Inter Tight 600",
+   "Inter Tight 800"
+  ],
+  "loadtest": []
+ },
+ "fundamentals-390-dark": {
+  "scrollW": 390,
+  "innerW": 390,
+  "height": 1601,
+  "lowContrast": [],
+  "smallTargets": [],
+  "links": [
+   "#main",
+   "index.html",
+   "fundamentals.html",
+   "frontend.html",
+   "backend.html",
+   "devops.html",
+   "ml.html",
+   "about.html",
+   "https://en.cppreference.com/c",
+   "https://en.cppreference.com/",
+   "https://docs.python.org/3/",
+   "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
+   "https://git-scm.com/doc",
+   "https://docs.github.com/",
+   "frontend.html",
+   "https://github.com/SolutionsAsService/CodingRoadmap",
+   "https://demo.ultimatebusinessmachines.com/portfolio"
+  ],
+  "h1": {
+   "text": "Fundamentals line",
+   "fontSize": "41.9px",
+   "family": "\"Inter Tight\"",
+   "wdth": "normal"
+  },
+  "fontsLoaded": [
+   "Inter Tight 400",
+   "Inter Tight 500",
+   "Inter Tight 600",
+   "Inter Tight 800",
+   "JetBrains Mono 400"
+  ],
+  "loadtest": []
+ },
+ "frontend-390-dark": {
+  "scrollW": 390,
+  "innerW": 390,
+  "height": 2345,
+  "lowContrast": [],
+  "smallTargets": [
+   {
+    "tag": "A",
+    "text": "Fundamentals",
+    "w": 109,
+    "h": 20
+   }
+  ],
+  "links": [
+   "#main",
+   "index.html",
+   "fundamentals.html",
+   "frontend.html",
+   "backend.html",
+   "devops.html",
+   "ml.html",
+   "about.html",
+   "fundamentals.html",
+   "https://developer.mozilla.org/en-US/docs/Web/HTML",
+   "https://developer.mozilla.org/en-US/docs/Web/CSS",
+   "https://www.w3.org/WAI/fundamentals/",
+   "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
+   "https://react.dev/",
+   "https://angular.dev/",
+   "https://vuejs.org/",
+   "https://svelte.dev/",
+   "https://www.typescriptlang.org/docs/",
+   "https://sass-lang.com/documentation/",
+   "https://tailwindcss.com/docs",
+   "https://styled-components.com/docs",
+   "https://vite.dev/guide/",
+   "https://webpack.js.org/concepts/",
+   "https://jestjs.io/docs/getting-started",
+   "https://mochajs.org/",
+   "https://reactnative.dev/docs/getting-started",
+   "https://help.figma.com/",
+   "https://helpx.adobe.com/xd/user-guide.html",
+   "https://www.nngroup.com/articles/usability-testing-101/",
+   "fundamentals.html",
+   "backend.html",
+   "https://github.com/SolutionsAsService/CodingRoadmap",
+   "https://demo.ultimatebusinessmachines.com/portfolio"
+  ],
+  "h1": {
+   "text": "Frontend line",
+   "fontSize": "41.9px",
+   "family": "\"Inter Tight\"",
+   "wdth": "normal"
+  },
+  "fontsLoaded": [
+   "Inter Tight 400",
+   "Inter Tight 500",
+   "Inter Tight 600",
+   "Inter Tight 800",
+   "JetBrains Mono 400"
+  ],
+  "loadtest": []
+ },
+ "backend-390-dark": {
+  "scrollW": 390,
+  "innerW": 390,
+  "height": 2234,
+  "lowContrast": [],
+  "smallTargets": [
+   {
+    "tag": "A",
+    "text": "Fundamentals",
+    "w": 109,
+    "h": 20
+   }
+  ],
+  "links": [
+   "#main",
+   "index.html",
+   "fundamentals.html",
+   "frontend.html",
+   "backend.html",
+   "devops.html",
+   "ml.html",
+   "about.html",
+   "fundamentals.html",
+   "https://nodejs.org/en/learn",
+   "https://docs.djangoproject.com/",
+   "https://flask.palletsprojects.com/",
+   "https://guides.rubyonrails.org/",
+   "https://spring.io/guides",
+   "https://laravel.com/docs",
+   "https://gin-gonic.com/en/docs/",
+   "https://actix.rs/docs/",
+   "https://ktor.io/docs/",
+   "https://www.postgresql.org/docs/",
+   "https://dev.mysql.com/doc/",
+   "https://www.mongodb.com/docs/",
+   "https://redis.io/docs/latest/",
+   "https://firebase.google.com/docs",
+   "https://developer.mozilla.org/en-US/docs/Glossary/REST",
+   "https://graphql.org/learn/",
+   "https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API",
+   "https://oauth.net/2/",
+   "https://datatracker.ietf.org/doc/html/rfc7519",
+   "https://docs.docker.com/",
+   "https://kubernetes.io/docs/home/",
+   "https://docs.aws.amazon.com/lambda/",
+   "https://cloud.google.com/run/docs",
+   "https://learn.microsoft.com/en-us/azure/azure-functions/",
+   "frontend.html",
+   "devops.html",
+   "https://github.com/SolutionsAsService/CodingRoadmap",
+   "https://demo.ultimatebusinessmachines.com/portfolio"
+  ],
+  "h1": {
+   "text": "Backend line",
+   "fontSize": "41.9px",
+   "family": "\"Inter Tight\"",
+   "wdth": "normal"
+  },
+  "fontsLoaded": [
+   "Inter Tight 400",
+   "Inter Tight 500",
+   "Inter Tight 600",
+   "Inter Tight 800",
+   "JetBrains Mono 400"
+  ],
+  "loadtest": []
+ },
+ "devops-390-dark": {
+  "scrollW": 390,
+  "innerW": 390,
+  "height": 2116,
+  "lowContrast": [],
+  "smallTargets": [
+   {
+    "tag": "A",
+    "text": "Fundamentals",
+    "w": 109,
+    "h": 20
+   }
+  ],
+  "links": [
+   "#main",
+   "index.html",
+   "fundamentals.html",
+   "frontend.html",
+   "backend.html",
+   "devops.html",
+   "ml.html",
+   "about.html",
+   "fundamentals.html",
+   "https://www.jenkins.io/doc/",
+   "https://docs.gitlab.com/ci/",
+   "https://docs.aws.amazon.com/",
+   "https://cloud.google.com/docs",
+   "https://learn.microsoft.com/en-us/azure/",
+   "https://developer.hashicorp.com/terraform/docs",
+   "https://docs.ansible.com/",
+   "https://docs.aws.amazon.com/cloudformation/",
+   "https://nginx.org/en/docs/",
+   "https://www.haproxy.org/",
+   "https://prometheus.io/docs/",
+   "https://grafana.com/docs/",
+   "https://www.elastic.co/docs",
+   "https://docs.splunk.com/",
+   "https://www.postgresql.org/docs/",
+   "https://www.mongodb.com/docs/",
+   "backend.html",
+   "ml.html",
+   "https://github.com/SolutionsAsService/CodingRoadmap",
+   "https://demo.ultimatebusinessmachines.com/portfolio"
+  ],
+  "h1": {
+   "text": "DevOps and infrastructure line",
+   "fontSize": "41.9px",
+   "family": "\"Inter Tight\"",
+   "wdth": "normal"
+  },
+  "fontsLoaded": [
+   "Inter Tight 400",
+   "Inter Tight 500",
+   "Inter Tight 600",
+   "Inter Tight 800",
+   "JetBrains Mono 400"
+  ],
+  "loadtest": []
+ },
+ "ml-390-dark": {
+  "scrollW": 390,
+  "innerW": 390,
+  "height": 1646,
+  "lowContrast": [],
+  "smallTargets": [
+   {
+    "tag": "A",
+    "text": "Fundamentals",
+    "w": 109,
+    "h": 20
+   }
+  ],
+  "links": [
+   "#main",
+   "index.html",
+   "fundamentals.html",
+   "frontend.html",
+   "backend.html",
+   "devops.html",
+   "ml.html",
+   "about.html",
+   "fundamentals.html",
+   "https://www.tensorflow.org/learn",
+   "https://docs.pytorch.org/docs/stable/",
+   "https://spark.apache.org/docs/latest/",
+   "https://hadoop.apache.org/docs/stable/",
+   "https://www.nltk.org/",
+   "https://huggingface.co/docs",
+   "https://docs.opencv.org/",
+   "https://flask.palletsprojects.com/",
+   "https://fastapi.tiangolo.com/",
+   "devops.html",
+   "https://github.com/SolutionsAsService/CodingRoadmap",
+   "https://demo.ultimatebusinessmachines.com/portfolio"
+  ],
+  "h1": {
+   "text": "Machine learning and AI line",
+   "fontSize": "41.9px",
+   "family": "\"Inter Tight\"",
+   "wdth": "normal"
+  },
+  "fontsLoaded": [
+   "Inter Tight 400",
+   "Inter Tight 500",
+   "Inter Tight 600",
+   "Inter Tight 800",
+   "JetBrains Mono 400"
+  ],
+  "loadtest": []
+ },
+ "about-390-dark": {
+  "scrollW": 390,
+  "innerW": 390,
+  "height": 2900,
+  "lowContrast": [],
+  "smallTargets": [
+   {
+    "tag": "A",
+    "text": "Fundamentals",
+    "w": 103,
+    "h": 20
+   },
+   {
+    "tag": "A",
+    "text": "Angular",
+    "w": 56,
+    "h": 20
+   },
+   {
+    "tag": "A",
+    "text": "GitHub",
+    "w": 52,
+    "h": 20
+   }
+  ],
+  "links": [
+   "#main",
+   "index.html",
+   "fundamentals.html",
+   "frontend.html",
+   "backend.html",
+   "devops.html",
+   "ml.html",
+   "about.html",
+   "fundamentals.html",
+   "https://angular.dev/",
+   "https://github.com/SolutionsAsService/CodingRoadmap",
+   "https://github.com/SolutionsAsService/CodingRoadmap",
+   "https://demo.ultimatebusinessmachines.com/portfolio"
+  ],
+  "h1": {
+   "text": "About this map",
+   "fontSize": "35.2px",
+   "family": "\"Inter Tight\"",
+   "wdth": "normal"
+  },
+  "fontsLoaded": [
+   "Inter Tight 400",
+   "Inter Tight 500",
+   "Inter Tight 600",
+   "Inter Tight 800",
+   "JetBrains Mono 400"
+  ],
+  "loadtest": []
+ },
+ "404-390-dark": {
+  "scrollW": 390,
+  "innerW": 390,
+  "height": 844,
+  "lowContrast": [],
+  "smallTargets": [],
+  "links": [
+   "#main",
+   "index.html",
+   "fundamentals.html",
+   "frontend.html",
+   "backend.html",
+   "devops.html",
+   "ml.html",
+   "about.html",
+   "index.html",
+   "https://github.com/SolutionsAsService/CodingRoadmap",
+   "https://demo.ultimatebusinessmachines.com/portfolio"
+  ],
+  "h1": {
+   "text": "Wrong platform.",
+   "fontSize": "35.2px",
+   "family": "\"Inter Tight\"",
+   "wdth": "normal"
+  },
+  "fontsLoaded": [
+   "Inter Tight 400",
+   "Inter Tight 500",
+   "Inter Tight 600",
+   "Inter Tight 800"
+  ],
+  "loadtest": []
+ }
+}
