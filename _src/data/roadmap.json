@@ -53,7 +53,7 @@
       "summary": "Getting code from a commit to production, and keeping it running.",
       "stages": [
         { "name": "CI/CD and deployment pipelines", "note": "Build, test and ship every change automatically. Jenkins pipelines are written in Groovy.",
-          "topics": [["Jenkins", "https://www.jenkins.io/doc/"], ["GitLab CI/CD", "https://docs.gitlab.com/ci/"], ["Learn Groovy", "https://github.com/SolutionsAsService/LearnGroovy"]] },
+          "topics": [["Jenkins", "https://www.jenkins.io/doc/"], ["GitLab CI/CD", "https://docs.gitlab.com/ci/"], ["Learn Groovy", "https://learngroovy.shadw.app/"]] },
         { "name": "Cloud providers", "note": "Rent compute, storage and managed services instead of running your own.",
           "topics": [["AWS", "https://docs.aws.amazon.com/"], ["Google Cloud", "https://cloud.google.com/docs"], ["Azure", "https://learn.microsoft.com/en-us/azure/"]] },
         { "name": "Infrastructure as code", "note": "Describe servers and networks in files you can review and rebuild from.",
