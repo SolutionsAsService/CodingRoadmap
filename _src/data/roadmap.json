@@ -39,7 +39,7 @@
         { "name": "Server-side languages", "note": "Pick one language and its main web framework, and learn it well.",
           "topics": [["Node.js", "https://nodejs.org/en/learn"], ["Django", "https://docs.djangoproject.com/"], ["Flask", "https://flask.palletsprojects.com/"], ["Ruby on Rails", "https://guides.rubyonrails.org/"], ["Spring (Java)", "https://spring.io/guides"], ["Laravel (PHP)", "https://laravel.com/docs"], ["Gin (Go)", "https://gin-gonic.com/en/docs/"], ["Actix (Rust)", "https://actix.rs/docs/"], ["Ktor (Kotlin)", "https://ktor.io/docs/"]] },
         { "name": "Databases", "note": "Relational databases for structured data, and NoSQL and in-memory stores for other shapes.",
-          "topics": [["PostgreSQL", "https://www.postgresql.org/docs/"], ["MySQL", "https://dev.mysql.com/doc/"], ["MongoDB", "https://www.mongodb.com/docs/"], ["Redis", "https://redis.io/docs/latest/"], ["Firebase", "https://firebase.google.com/docs"]] },
+          "topics": [["PostgreSQL", "https://www.postgresql.org/docs/"], ["MySQL", "https://dev.mysql.com/doc/"], ["MongoDB", "https://www.mongodb.com/docs/"], ["Redis", "https://redis.io/docs/latest/"], ["Firebase", "https://firebase.google.com/docs"], ["Learn SQL", "https://learnsql.shadw.app/"], ["Learn MongoDB", "https://learnmongo.shadw.app/"]] },
         { "name": "APIs and protocols", "note": "How clients and servers talk to each other.",
           "topics": [["REST", "https://developer.mozilla.org/en-US/docs/Glossary/REST"], ["GraphQL", "https://graphql.org/learn/"], ["WebSockets", "https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API"]] },
         { "name": "Security and authentication", "note": "Who a user is, what they may do, and how to keep it that way.",
