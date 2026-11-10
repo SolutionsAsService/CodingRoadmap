@@ -82,7 +82,8 @@ def short(name):
             "Frameworks and state": "Frameworks", "Languages and styling": "Styling", "UX and UI design": "UX/UI",
             "APIs and protocols": "APIs", "Cloud providers": "Cloud", "The web platform": "Web platform",
             "Model deployment": "Deployment", "Data engineering": "Data eng.", "Computer vision": "Vision",
-            "First languages": "Languages", "Build and test": "Build & test"}.get(name, name)
+            "First languages": "Languages", "Build and test": "Build & test",
+            "How blockchains work": "Blockchains", "Tools and testing": "Tools & tests", "Beyond Ethereum": "Beyond ETH"}.get(name, name)
 
 
 def topic(name, url):
