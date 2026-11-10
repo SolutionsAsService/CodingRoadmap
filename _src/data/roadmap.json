@@ -19,7 +19,7 @@
       "summary": "What people see and touch in the browser and on their phones.",
       "stages": [
         { "name": "The web platform", "note": "Semantic HTML, accessibility, responsive layout with Flexbox and Grid, and JavaScript in the browser.",
-          "topics": [["HTML", "https://developer.mozilla.org/en-US/docs/Web/HTML"], ["CSS", "https://developer.mozilla.org/en-US/docs/Web/CSS"], ["Accessibility", "https://www.w3.org/WAI/fundamentals/"], ["JavaScript", "https://developer.mozilla.org/en-US/docs/Web/JavaScript"]] },
+          "topics": [["HTML", "https://developer.mozilla.org/en-US/docs/Web/HTML"], ["CSS", "https://developer.mozilla.org/en-US/docs/Web/CSS"], ["Learn CSS (hands-on)", "https://learncss.shadw.app"], ["Accessibility", "https://www.w3.org/WAI/fundamentals/"], ["JavaScript", "https://developer.mozilla.org/en-US/docs/Web/JavaScript"]] },
         { "name": "Frameworks and state", "note": "Component frameworks, and how an app keeps its data in step with its screen.",
           "topics": [["React", "https://react.dev/"], ["Angular", "https://angular.dev/"], ["Vue", "https://vuejs.org/"], ["Svelte", "https://svelte.dev/"]] },
         { "name": "Languages and styling", "note": "Typed JavaScript, and ways to write and organise styles at scale.",
