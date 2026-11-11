@@ -612,6 +612,10 @@
               "https://web3.shadw.app"
             ],
             [
+              "Blockchain, explained (hands-on)",
+              "https://blockchain-explain.shadw.app"
+            ],
+            [
               "Ethereum developer docs",
               "https://ethereum.org/en/developers/docs/"
             ]
@@ -678,10 +682,6 @@
             [
               "Cosmos SDK",
               "https://docs.cosmos.network/"
-            ],
-            [
-              "Blockchain infrastructure explained",
-              "https://blockchain-explain.vercel.app"
             ],
             [
               "SmartCOBOL (hands-on)",
