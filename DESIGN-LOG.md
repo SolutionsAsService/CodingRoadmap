@@ -49,3 +49,6 @@ The panel converged, so there was no R2. Before the panel, the dark-mode Fundame
 ## Open items
 - The map's SVG text is not covered by the automated contrast check. Line names were moved to ink partly for that reason.
 - Topics with no single official page (design systems, prototyping, 2FA, SSO) are shown as dashed, unlinked chips.
+
+## 2026-11-11: Learn C and its family added
+Added "Learn C and its family (hands-on)" (https://learnc.shadw.app) to Fundamentals › First languages, after C and C++. This matches the other hands-on links (Learn CSS, Learn Groovy, Learn Solidity). Measured: the chip is 299x58 px at 375 wide and 306x40 px at 1440, with no horizontal overflow at either size. The station's tool count went from 6 to 7.
