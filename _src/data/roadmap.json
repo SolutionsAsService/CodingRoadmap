@@ -27,19 +27,44 @@
               "https://learnc.shadw.app"
             ],
             [
+              "HolyC and TempleOS (hands-on)",
+              "https://holyc.shadw.app"
+            ],
+            [
+              "Microcontrollers (C on hardware)",
+              "https://microcontrollers.shadw.app"
+            ],
+            [
               "Python",
               "https://docs.python.org/3/"
             ],
             [
               "JavaScript",
               "https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+            ],
+            [
+              "Learn Bash (hands-on)",
+              "https://learnbash.shadw.app"
+            ],
+            [
+              "Learn COBOL (hands-on)",
+              "https://solutionsasservice.github.io/LearnCOBOL/"
+            ],
+            [
+              "Esoteric languages (for fun)",
+              "https://esoteric-languages.shadw.app"
             ]
           ]
         },
         {
           "name": "Algorithms and data structures",
           "note": "Arrays, lists, trees, graphs and hash maps, and how to sort, search and reason about cost.",
-          "topics": []
+          "topics": [
+            [
+              "Developer map",
+              "https://developer-map.shadw.app"
+            ]
+          ]
         },
         {
           "name": "Object-oriented programming",
@@ -243,6 +268,10 @@
               "https://actix.rs/docs/"
             ],
             [
+              "Learn Rust (hands-on)",
+              "https://learnrust.shadw.app"
+            ],
+            [
               "Ktor (Kotlin)",
               "https://ktor.io/docs/"
             ]
@@ -289,6 +318,10 @@
             [
               "WebSockets",
               "https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API"
+            ],
+            [
+              "Learn Hypercore (hands-on)",
+              "https://learnhypercore.shadw.app"
             ]
           ]
         },
@@ -323,8 +356,16 @@
               "https://docs.docker.com/"
             ],
             [
+              "Learn Docker (hands-on)",
+              "https://learndocker.shadw.app"
+            ],
+            [
               "Kubernetes",
               "https://kubernetes.io/docs/home/"
+            ],
+            [
+              "Learn Kubernetes (hands-on)",
+              "https://learnkubernetes.shadw.app"
             ],
             [
               "AWS Lambda",
@@ -414,6 +455,10 @@
             [
               "HAProxy",
               "https://www.haproxy.org/"
+            ],
+            [
+              "How the internet is run",
+              "https://internet-structure.vercel.app"
             ]
           ]
         },
@@ -525,6 +570,14 @@
             [
               "FastAPI",
               "https://fastapi.tiangolo.com/"
+            ],
+            [
+              "UTCP and MCP compared",
+              "https://utcp.shadw.app"
+            ],
+            [
+              "shadw-MCP (an MCP server)",
+              "https://shadw-mcp.shadw.app"
             ]
           ]
         }
@@ -612,6 +665,10 @@
             [
               "Cosmos SDK",
               "https://docs.cosmos.network/"
+            ],
+            [
+              "Blockchain infrastructure explained",
+              "https://blockchain-explain.vercel.app"
             ],
             [
               "SmartCOBOL (hands-on)",

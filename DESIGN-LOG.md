@@ -52,3 +52,13 @@ The panel converged, so there was no R2. Before the panel, the dark-mode Fundame
 
 ## 2026-11-11: Learn C and its family added
 Added "Learn C and its family (hands-on)" (https://learnc.shadw.app) to Fundamentals › First languages, after C and C++. This matches the other hands-on links (Learn CSS, Learn Groovy, Learn Solidity). Measured: the chip is 299x58 px at 375 wide and 306x40 px at 1440, with no horizontal overflow at either size. The station's tool count went from 6 to 7.
+
+## 2026-11-11: the portfolio's other developer sites linked
+Owner asked for Kubernetes and any other developer site from the portfolio that the roadmap missed. Added beside the topic each one teaches:
+- Backend: Learn Docker and Learn Kubernetes (Microservices), Learn Rust (Server-side languages), Learn Hypercore (APIs and protocols)
+- DevOps: How the internet is run (Networking)
+- ML and AI: UTCP and MCP compared, and shadw-MCP (Model deployment)
+- Web3: Blockchain infrastructure explained (Beyond Ethereum)
+- Fundamentals: HolyC and TempleOS, Microcontrollers, Learn Bash, Learn COBOL, Esoteric languages (First languages); Developer map (Algorithms and data structures)
+
+Measured: 9 pages at 375 and 1440 wide, no horizontal overflow. "Developer map: how computers work" wrapped inside its chip at 375, so it was shortened to "Developer map".
