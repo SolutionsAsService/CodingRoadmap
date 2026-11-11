@@ -1,6 +1,6 @@
 {
   "title": "Coding Roadmap",
-  "summary": "Full-stack development as a transit map: start on the Fundamentals line, then change at any interchange onto Frontend, Backend, DevOps, Machine Learning or Web3.",
+  "summary": "Full-stack development as a transit map: start on the Fundamentals line, then change at any interchange onto Frontend, Backend, DevOps, Machine Learning, Web3 or Systems.",
   "tracks": [
     {
       "id": "fundamentals",
@@ -12,27 +12,11 @@
       "stages": [
         {
           "name": "First languages",
-          "note": "One systems language and one scripting language teach you how computers and programs work.",
+          "note": "Start with one language close to the machine and one for scripting and the web.",
           "topics": [
             [
               "C",
               "https://en.cppreference.com/c"
-            ],
-            [
-              "C++",
-              "https://en.cppreference.com/"
-            ],
-            [
-              "Learn C and its family (hands-on)",
-              "https://learnc.shadw.app"
-            ],
-            [
-              "HolyC and TempleOS (hands-on)",
-              "https://holyc.shadw.app"
-            ],
-            [
-              "Microcontrollers (C on hardware)",
-              "https://microcontrollers.shadw.app"
             ],
             [
               "Python",
@@ -41,30 +25,37 @@
             [
               "JavaScript",
               "https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-            ],
-            [
-              "Learn Bash (hands-on)",
-              "https://learnbash.shadw.app"
-            ],
-            [
-              "Learn COBOL (hands-on)",
-              "https://solutionsasservice.github.io/LearnCOBOL/"
-            ],
-            [
-              "Esoteric languages (for fun)",
-              "https://esoteric-languages.shadw.app"
             ]
           ]
         },
         {
-          "name": "Algorithms and data structures",
-          "note": "Arrays, lists, trees, graphs and hash maps, and how to sort, search and reason about cost.",
+          "name": "The command line",
+          "note": "The shell is where you run, build and automate everything else.",
+          "topics": [
+            [
+              "Bash reference manual",
+              "https://www.gnu.org/software/bash/manual/bash.html"
+            ],
+            [
+              "Learn Bash (hands-on)",
+              "https://learnbash.shadw.app"
+            ]
+          ]
+        },
+        {
+          "name": "How computers work",
+          "note": "Memory, processes, files and networks: the concepts every later line assumes.",
           "topics": [
             [
               "Developer map",
               "https://developer-map.shadw.app"
             ]
           ]
+        },
+        {
+          "name": "Algorithms and data structures",
+          "note": "Arrays, lists, trees, graphs and hash maps, and how to sort, search and reason about cost.",
+          "topics": []
         },
         {
           "name": "Object-oriented programming",
@@ -232,8 +223,8 @@
       "summary": "Servers, data and the APIs that connect them.",
       "stages": [
         {
-          "name": "Server-side languages",
-          "note": "Pick one language and its main web framework, and learn it well.",
+          "name": "Dynamic languages",
+          "note": "Pick one language and its main web framework, and learn it well: quick to start, interpreted.",
           "topics": [
             [
               "Node.js",
@@ -252,12 +243,18 @@
               "https://guides.rubyonrails.org/"
             ],
             [
-              "Spring (Java)",
-              "https://spring.io/guides"
-            ],
-            [
               "Laravel (PHP)",
               "https://laravel.com/docs"
+            ]
+          ]
+        },
+        {
+          "name": "Compiled languages",
+          "note": "Typed, compiled frameworks for services that must be fast and long-lived.",
+          "topics": [
+            [
+              "Spring (Java)",
+              "https://spring.io/guides"
             ],
             [
               "Gin (Go)",
@@ -266,10 +263,6 @@
             [
               "Actix (Rust)",
               "https://actix.rs/docs/"
-            ],
-            [
-              "Learn Rust (hands-on)",
-              "https://learnrust.shadw.app"
             ],
             [
               "Ktor (Kotlin)",
@@ -348,25 +341,9 @@
           ]
         },
         {
-          "name": "Microservices and serverless",
-          "note": "Package services in containers, run them at scale, or run functions without managing servers.",
+          "name": "Serverless",
+          "note": "Run code on demand without managing a server.",
           "topics": [
-            [
-              "Docker",
-              "https://docs.docker.com/"
-            ],
-            [
-              "Learn Docker (hands-on)",
-              "https://learndocker.shadw.app"
-            ],
-            [
-              "Kubernetes",
-              "https://kubernetes.io/docs/home/"
-            ],
-            [
-              "Learn Kubernetes (hands-on)",
-              "https://learnkubernetes.shadw.app"
-            ],
             [
               "AWS Lambda",
               "https://docs.aws.amazon.com/lambda/"
@@ -441,6 +418,28 @@
             [
               "CloudFormation",
               "https://docs.aws.amazon.com/cloudformation/"
+            ]
+          ]
+        },
+        {
+          "name": "Containers and orchestration",
+          "note": "Package an app with everything it needs, then run many copies reliably.",
+          "topics": [
+            [
+              "Docker",
+              "https://docs.docker.com/"
+            ],
+            [
+              "Learn Docker (hands-on)",
+              "https://learndocker.shadw.app"
+            ],
+            [
+              "Kubernetes",
+              "https://kubernetes.io/docs/home/"
+            ],
+            [
+              "Learn Kubernetes (hands-on)",
+              "https://learnkubernetes.shadw.app"
             ]
           ]
         },
@@ -570,6 +569,16 @@
             [
               "FastAPI",
               "https://fastapi.tiangolo.com/"
+            ]
+          ]
+        },
+        {
+          "name": "Agents and tools",
+          "note": "Let a model call tools: the protocols and a working server.",
+          "topics": [
+            [
+              "Model Context Protocol",
+              "https://modelcontextprotocol.io/"
             ],
             [
               "UTCP and MCP compared",
@@ -673,6 +682,97 @@
             [
               "SmartCOBOL (hands-on)",
               "https://smartcobol.shadw.app"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "systems",
+      "name": "Systems and languages",
+      "color": "#007d8a",
+      "bullet": "6",
+      "summary": "Close to the machine: systems languages, operating systems, hardware, and the languages that bend the rules.",
+      "stages": [
+        {
+          "name": "Systems languages",
+          "note": "Languages that manage memory themselves, for kernels, engines and tools.",
+          "topics": [
+            [
+              "C++",
+              "https://en.cppreference.com/"
+            ],
+            [
+              "Rust",
+              "https://doc.rust-lang.org/book/"
+            ],
+            [
+              "Learn C and its family (hands-on)",
+              "https://learnc.shadw.app"
+            ],
+            [
+              "Learn Rust (hands-on)",
+              "https://learnrust.shadw.app"
+            ]
+          ]
+        },
+        {
+          "name": "Operating systems",
+          "note": "What sits between your program and the hardware.",
+          "topics": [
+            [
+              "Linux kernel documentation",
+              "https://docs.kernel.org/"
+            ],
+            [
+              "HolyC and TempleOS (hands-on)",
+              "https://holyc.shadw.app"
+            ]
+          ]
+        },
+        {
+          "name": "Hardware and microcontrollers",
+          "note": "Code that runs on a chip with no operating system at all.",
+          "topics": [
+            [
+              "Arduino",
+              "https://docs.arduino.cc/"
+            ],
+            [
+              "ESP-IDF (ESP32)",
+              "https://docs.espressif.com/projects/esp-idf/en/latest/"
+            ],
+            [
+              "Microcontrollers (hands-on)",
+              "https://microcontrollers.shadw.app"
+            ]
+          ]
+        },
+        {
+          "name": "Legacy languages",
+          "note": "COBOL still runs banks and governments; someone has to read it.",
+          "topics": [
+            [
+              "GnuCOBOL",
+              "https://gnucobol.sourceforge.io/"
+            ],
+            [
+              "Learn COBOL (hands-on)",
+              "https://solutionsasservice.github.io/LearnCOBOL/"
+            ]
+          ]
+        },
+        {
+          "name": "Language curiosities",
+          "note": "Languages built to test what a language can be.",
+          "topics": [
+            [
+              "Esolang wiki",
+              "https://esolangs.org/"
+            ],
+            [
+              "Esoteric languages (hands-on)",
+              "https://esoteric-languages.shadw.app"
             ]
           ]
         }

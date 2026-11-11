@@ -37,6 +37,12 @@ def page(title, desc, body, current=None):
     return out
 
 
+def check_labels():
+    long = [short(st["name"]) for t in TRACKS for st in t["stages"] if len(short(st["name"])) > MAX_LABEL]
+    if long:
+        raise SystemExit(f"map labels longer than {MAX_LABEL} characters (add a short name): {long}")
+
+
 def network_svg():
     """Fundamentals runs left to right; at its end each line branches off at 45 degrees, Beck-style."""
     gap, x0, y0, step = 135, 60, 84, 26
@@ -83,7 +89,14 @@ def short(name):
             "APIs and protocols": "APIs", "Cloud providers": "Cloud", "The web platform": "Web platform",
             "Model deployment": "Deployment", "Data engineering": "Data eng.", "Computer vision": "Vision",
             "First languages": "Languages", "Build and test": "Build & test",
-            "How blockchains work": "Blockchains", "Tools and testing": "Tools & tests", "Beyond Ethereum": "Beyond ETH"}.get(name, name)
+            "How blockchains work": "Blockchains", "Tools and testing": "Tools & tests", "Beyond Ethereum": "Beyond ETH",
+            "The command line": "Shell", "How computers work": "Computers", "Dynamic languages": "Dynamic",
+            "Compiled languages": "Compiled", "Containers and orchestration": "Containers", "Agents and tools": "Agents",
+            "Systems languages": "Systems", "Operating systems": "OS", "Hardware and microcontrollers": "Hardware",
+            "Legacy languages": "Legacy", "Language curiosities": "Esoteric"}.get(name, name)
+
+
+MAX_LABEL = 15  # characters; stations sit 135 units apart, so a longer map label runs into its neighbour
 
 
 def topic(name, url):
@@ -117,6 +130,7 @@ def line_page(t, i):
 
 
 def main():
+    check_labels()
     SITE.mkdir(exist_ok=True)
     written = []
     for i, t in enumerate(TRACKS):

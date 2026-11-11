@@ -62,3 +62,14 @@ Owner asked for Kubernetes and any other developer site from the portfolio that 
 - Fundamentals: HolyC and TempleOS, Microcontrollers, Learn Bash, Learn COBOL, Esoteric languages (First languages); Developer map (Algorithms and data structures)
 
 Measured: 9 pages at 375 and 1440 wide, no horizontal overflow. "Developer map: how computers work" wrapped inside its chip at 375, so it was shortened to "Developer map".
+
+## 2026-11-11: reorganised so no station is crowded
+The owner said First languages held too much (10 chips) and asked for a more logical organisation. Every station now holds 0 to 5 topics, and each topic sits where its subject lives:
+- **Fundamentals** (6 stations): First languages (C, Python, JavaScript); new **The command line** (Bash manual, Learn Bash); new **How computers work** (Developer map); then Algorithms, OOP and Version control.
+- New line **6, Systems and languages** (teal #007d8a, 4.88:1 white on teal): Systems languages (C++, Rust, Learn C, Learn Rust), Operating systems (Linux kernel docs, HolyC and TempleOS), Hardware and microcontrollers (Arduino, ESP-IDF, Microcontrollers), Legacy languages (GnuCOBOL, Learn COBOL), Language curiosities (Esolang wiki, Esoteric languages). Teal rather than brown: brown sat beside Web3's orange on the map and the two read as one.
+- **Backend**: Server-side languages (9) split into Dynamic languages (5) and Compiled languages (4); Microservices became Serverless (3) once containers moved.
+- **DevOps**: new Containers and orchestration (Docker, Kubernetes and their hands-on guides).
+- **ML and AI**: new Agents and tools (MCP docs, UTCP and MCP compared, shadw-MCP); Model deployment back to Flask and FastAPI.
+- The map got short names for every new station, and the build now refuses a map label longer than 15 characters (the first build overlapped six labels). The line cards put Fundamentals across the full row, so the six lines fill two even rows of three.
+
+Measured after the last edit: 10 pages at 375 and 1440, no horizontal overflow; no map labels overlap (screenshot).

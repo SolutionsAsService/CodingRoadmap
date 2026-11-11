@@ -1,6 +1,6 @@
 # Coding Roadmap
 
-Full-stack development drawn as a transit map. Everyone starts on the **Fundamentals** line; at its end you can change onto **Frontend**, **Backend**, **DevOps and infrastructure**, **Machine learning and AI** or **Web3 and smart contracts**. Each line has its own page with its stations (stages) in order, and every tool on it links to its official documentation.
+Full-stack development drawn as a transit map. Everyone starts on the **Fundamentals** line; at its end you can change onto **Frontend**, **Backend**, **DevOps and infrastructure**, **Machine learning and AI**, **Web3 and smart contracts** or **Systems and languages**. Each line has its own page with its stations (stages) in order, and every tool on it links to its official documentation.
 
 ## Layout
 

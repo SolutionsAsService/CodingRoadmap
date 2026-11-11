@@ -64,6 +64,7 @@ p { margin: 0 0 1em; max-width: 64ch; text-wrap: pretty; }
 .line-cards { list-style: none; margin: 20px 0 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 300px), 1fr)); gap: 12px; }
 .line-card a { display: grid; grid-template-columns: auto 1fr; gap: 4px 14px; padding: 18px; border: 1px solid var(--rule); border-top: 8px solid var(--c); text-decoration: none; height: 100%; background: var(--paper); }
 .line-card a:hover { border-color: var(--c); }
+.line-cards > .line-card:first-child { grid-column: 1 / -1; }  /* the trunk spans the row; the six lines fill two rows of three */
 .lc-name { font-weight: 800; font-size: 1.2rem; align-self: center; }
 .lc-sum { grid-column: 1 / -1; color: var(--ink-2); }
 .lc-meta { grid-column: 1 / -1; font-size: .9rem; font-weight: 600; }
