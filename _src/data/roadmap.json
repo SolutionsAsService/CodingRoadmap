@@ -394,6 +394,10 @@
           "note": "Rent compute, storage and managed services instead of running your own.",
           "topics": [
             [
+              "AWS Encyclopedia (hands-on)",
+              "https://awsencyclopedia.shadw.app"
+            ],
+            [
               "AWS",
               "https://docs.aws.amazon.com/"
             ],
