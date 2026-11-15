@@ -73,3 +73,6 @@ The owner said First languages held too much (10 chips) and asked for a more log
 - The map got short names for every new station, and the build now refuses a map label longer than 15 characters (the first build overlapped six labels). The line cards put Fundamentals across the full row, so the six lines fill two even rows of three.
 
 Measured after the last edit: 10 pages at 375 and 1440, no horizontal overflow; no map labels overlap (screenshot).
+
+## 2026-11-15: PHP and Learn PHP added
+Added "PHP" (https://www.php.net/docs.php) and "Learn PHP (hands-on)" (https://github.com/SolutionsAsService/LearnPHP) to Backend > Dynamic languages, in teaching order before "Laravel (PHP)". The guide links to its repository because the rebuilt site is a Laravel app and a live address was not confirmed. Measured on the Backend page: the chips are 65x40 px and 201x40 px at both 390 and 1440 wide, with no horizontal overflow. The station's tool count went from 5 to 7. Open: every chip on the roadmap is 40 px tall, under the 44 px touch floor; it predates this change and applies to the whole site.

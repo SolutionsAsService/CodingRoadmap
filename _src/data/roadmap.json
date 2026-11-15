@@ -243,6 +243,14 @@
               "https://guides.rubyonrails.org/"
             ],
             [
+              "PHP",
+              "https://www.php.net/docs.php"
+            ],
+            [
+              "Learn PHP (hands-on)",
+              "https://github.com/SolutionsAsService/LearnPHP"
+            ],
+            [
               "Laravel (PHP)",
               "https://laravel.com/docs"
             ]
