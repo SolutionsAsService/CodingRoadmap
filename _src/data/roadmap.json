@@ -313,6 +313,10 @@
           "note": "How clients and servers talk to each other.",
           "topics": [
             [
+              "Learn API (hands-on)",
+              "https://learnapi.shadw.app"
+            ],
+            [
               "REST",
               "https://developer.mozilla.org/en-US/docs/Glossary/REST"
             ],
