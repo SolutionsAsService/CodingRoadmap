@@ -287,6 +287,10 @@
           "note": "Relational databases for structured data, and NoSQL and in-memory stores for other shapes.",
           "topics": [
             [
+              "Learn SQL (hands-on)",
+              "https://learnsql.shadw.app"
+            ],
+            [
               "PostgreSQL",
               "https://www.postgresql.org/docs/"
             ],
